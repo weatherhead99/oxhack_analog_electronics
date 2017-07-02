@@ -1,0 +1,71 @@
+\documentclass{memoir}
+\usepackage{hyperref}
+\usepackage{todonotes}
+
+\title{Oxhack Analog \& Power Electronics Basics Course}
+\author{Dan Weatherill}
+
+\begin{document}
+	\maketitle
+	\chapter{Analog Integrator Circuit}
+	
+	\section{Introduction}
+	Welcome to Oxhack analog electronics. We have prepared this document as a very quick guide and reference to the beginner's sessions. If something is unclear please ask and point it out - it may very well be that we've made an error or omission. We also welcome any help with contributions \& improvements to documentation. Presently all the materials are open and hosted at \url{https://github.com/weatherhead99/oxhack_analog_electronics}.
+
+	For anyone wishing for a much more in depth yet accessible guide to all aspects of electronics, we recommend The Art of Electronics, by Horowitz \& Hill (by the way, this is an extremely uncontroversial recommendation!). The third edition has just been published, and has excellent up to date inclusions. This means, however, that the 2nd edition can now be found at very good value, and is still very relevant and useful especially for Analog \& Power electronics.
+	
+	There is inevitably some mathematical fluency required in becoming proficient at electronics - we have attempted to introduce all necessary concepts, whilst also not letting them be too "scary" for the beginner. If you don't like maths, please just skip the nasty looking sections. If you would like some help getting up to speed on the maths, please ask and we will be happy to help.
+	
+	\section{Mathematics Background}
+	\subsection{Time \& Frequency}
+	In analysing and designing electronic systems, we are often interested not just in a static quantity, but in how the value of a quantity varies over a period of time. Perhaps the most common signal we are interested in is the voltage at a particular point in a circuit (see \autoref{voltage_current} for an explanation of voltage, it isn't necessary to understand voltage for the purposes of this point though).
+
+	We denote that a voltage $V$ is changing over time (we say it is "a function of time") by writing 
+	\begin{equation}
+		V=V\left(t\right)
+	\end{equation}
+	which is pronounced "v equals v of t". One natural way of showing how a signal varies over time is using a graph, \autoref{fig:random_signal} for example, shows a voltage varying randomly over time, in a fashion which is known as "white noise".
+	\begin{figure}
+		\missingfigure{random signal}
+		\caption{\label{fig:random_signal}a voltage varying randomly over time}
+	\end{figure}
+	
+	In analog electronics we often deal with periodic signals, that is, signals which vary with time with some sort of regular repetition. The time it takes between repetitions is called the "period" (given symbol $T$) and the number of times the signal repeats in a particular length of time is called the "fundamental frequency" (symbol: $f_0$). It is related to the period by:
+	\begin{equation}
+		f_0 = {1 \over T }
+	\end{equation}
+	in other words, the longer the time period, the lower the fundamental frequency. Frequency is measured in units of "Hertz", where 1 Hertz is 1 cycle per second. An example of a periodic signal is a sine wave, which has the equation:
+	\begin{equation}
+		V\left(t\right) = V_0 \sin\left(2 \pi f_0  t\right)
+	\end{equation} 
+	where $V_0$ is called the "amplitude". Two examples of sine waves at different frequencies are shown in \autoref{fig:sine_waves}
+	
+	\begin{figure}
+		\missingfigure{multiple frequencies of sine wave}
+		\caption{\label{fig:sine_waves}two sine waves, with frequencies of 10 Hz (red) and 20 Hz (blue)}
+	\end{figure}
+	
+	\subsection{Integration \& Differentiation}
+	It is necessary to introduce the ideas of integration and differentiation (aka: calculus) to be able to grasp some of the concepts behind analog electronics. Calculus is rightly perceived to be quite difficult, though much of this difficulty is in learning and applying the various techniques to actually solve specific calculus problems. None of that is needed here, we simply have to gain basic understanding of the underlying concepts, which thankfully are actually quite simple. 
+	
+	
+	
+
+
+	\section{Voltage \& Current \label{voltage_current}}
+	
+	\section{Kirchoff's Laws}
+	
+	\section{Passive Components}
+	\subsection{Resistor}
+	\subsection{Capacitor}
+	
+	\section{Bench Equipment Basics}
+	\subsection{Oscilloscope}
+	\subsection{Signal Generator}
+	
+	\section{Op amps}
+	
+	\section {Op Amp Integrator}
+	
+\end{document}
