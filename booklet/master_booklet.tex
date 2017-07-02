@@ -47,10 +47,29 @@
 	
 	\subsection{Integration \& Differentiation}
 	It is necessary to introduce the ideas of integration and differentiation (aka: calculus) to be able to grasp some of the concepts behind analog electronics. Calculus is rightly perceived to be quite difficult, though much of this difficulty is in learning and applying the various techniques to actually solve specific calculus problems. None of that is needed here, we simply have to gain basic understanding of the underlying concepts, which thankfully are actually quite simple. 
-	
-	
-	
 
+	Fundamentally, at a basic level the calculus we require can all be related to the concept of "rate of change". If a quantity is changing over time, then we can ask the question "how rapidly is it changing with time?". For example, imagine a car travelling along a road. If we define some starting point behind the car, then every second of time that passes the car's distance from that point is increasing. How fast the distance increases is called "speed" (technically in this context, "velocity"). Thus, "speed" is the "rate of change" of "distance" over "time". In calculus, we call rates of change "derivatives", and the operation which goes from a quantity to its rate of change is called "differentiation". If speed is represented by the letter $v$, distance by $x$ and time by $t$, we can say:
+	\begin{equation}
+		v\left(t\right) = {d x \over dt}
+	\end{equation}
+	where the symbol $d \over dt$ represents differentiation and is read as "d by dt". Again returning to graphical representations, a derivative is directly analogous to taking the gradient of a line on a graph, as illustrated in \autoref{fig:derivative}.
+	
+	\begin{figure}
+		\missingfigure{derivative schematic}
+		\caption{\label{fig:derivative} differentiation as taking the gradient of graph}
+	\end{figure}
+
+	The opposite of differentiation is called "integration", and going back to the speed and distance analogy, we would say that "distance is the integral of speed", or:
+	\begin{equation}
+		x\left(t\right) = \int v dt
+	\end{equation}
+	
+	The integral of a quantity is given by the area under its graph. This is shown schematically in 
+
+	\begin{figure}	
+		\missingfigure{integration schematic}
+		\caption{\label{fig:integration} integration as the area under a graph}
+	\end{figure}
 
 	\section{Voltage \& Current \label{voltage_current}}
 	
