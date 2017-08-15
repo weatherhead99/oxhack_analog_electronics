@@ -130,3 +130,15 @@ Choose a couple of op amp circuits from the example sheet and construct them - t
 Don't worry if you didn't understand it all - this is a big topic, but once you crack op amps, you understand __a lot__ of analog electronics
 
 Happy hacking
+
+
+---
+
+# Useful Links
+
+https://artofelectronics.net
+
+[Walter Lewin's MIT 8.02x lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+
+[these slides](https://github.com/weatherhead99/oxhack\_analog\_electronics)
+
