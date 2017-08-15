@@ -29,25 +29,36 @@
 
 ### Voltage & Current
 
-#### Current
+__Current:__
 The amount of charge (i.e. number of electrons) passing a point per unit time.
 
 $I = {{dQ}\over{dt}} $
 
-#### Voltage
+__Voltage:__
 The average difference in energy between electrons at two points
 
-#### ground
-A common (but arbitrary) reference point for a circuit, chosen to have 0 energy.
+__Ground:__
+A common (but arbitrary) voltage reference point for a circuit, chosen to have 0 energy.
 
 
 ----
 
-### Kirchoff's Laws
+### Kirchoff's Laws 1
 
 1) Current at a node adds up to 0 (electrons can't be created or destroyed)
 
+<img src="kirchoff1.svg" width=250 />
+
+
+
+----
+
+### Kirchoff's Laws 2
+
 2) Voltage around a loop adds up to 0 (energy change must all be accounted for)
+
+<img src="kirchoff2.svg" width=250/>
+
 
 
 ----
@@ -55,17 +66,22 @@ A common (but arbitrary) reference point for a circuit, chosen to have 0 energy.
 
 ### Resistors
 
+
+<img src="resistor.svg" width=250/>
+
 Dissipate energy as heat
 
 $V=I\times R$
 
-Useful for converting current into voltage, or defining ratios of voltage drops
+Useful for converting current into voltage (or vice versa), defining ratios of voltage drops, limiting current into other devices
 
 
 ----
 
 
 ### capacitors
+
+<img src="capacitor.svg" width=200/>
 
 Store energy temporarily by separating charge in an electric field.
 
@@ -90,8 +106,20 @@ Useful for filtering, smoothing, short term storage of a voltage
 
 ----
 
+## Op amp connections
 
-## Basic Theory 1
+<img src="op_amp.svg" width=200/>
+
+* Non-inverting (+) and inverting(-) inputs
+* output
+* power supply rails
+
+**Be careful: inverting and non-inverting inputs can be drawn either way round!**
+
+----
+
+
+## Basic Theory 
 
 Op amps use external power (from a power supply) to adjust their voltage output such that it is an amplification of the difference between their inputs
 
@@ -123,6 +151,15 @@ For this session we will build various ideal op amp circuits and analyse them us
 
 ----
 
+# Derivation for inverting op amp
+
+Feel free to go for a coffee if you don't want to sit through the maths!
+
+
+---
+
+
+
 # Practical
 
 Choose a couple of op amp circuits from the example sheet and construct them - test using signal generator inputs and/or the microphone modules.
@@ -134,11 +171,12 @@ Happy hacking
 
 ---
 
-# Useful Links
+### Useful Links
 
 https://artofelectronics.net
 
 [Walter Lewin's MIT 8.02x lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+![Lewin QR code](lewin.svg)
 
 [these slides](https://github.com/weatherhead99/oxhack\_analog\_electronics)
-
+![these slides QR code](slides.svg)

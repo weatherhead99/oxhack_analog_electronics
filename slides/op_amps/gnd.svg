@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="31.21756"
+   height="37.358639"
+   id="svg8753"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 15">
+  <defs
+     id="defs8755" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-117.96265"
+     inkscape:cy="-87.091808"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="2.1"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:window-width="489"
+     inkscape:window-height="396"
+     inkscape:window-x="1345"
+     inkscape:window-y="629"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata8758">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-492.96265,-407.91174)">
+    <g
+       id="g5713"
+       transform="matrix(1.25,0,0,-1.25,508.57587,423.19225)">
+      <g
+         id="g5715">
+        <g
+           id="g5717">
+          <g
+             id="g5719">
+            <g
+               id="g5721" />
+          </g>
+          <g
+             id="g5723">
+            <g
+               id="g5725">
+              <path
+                 id="path5727"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="M 0,0 0,-9.92134"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5729"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m -9.92134,-9.92134 19.84268,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5731"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m -7.93709,-11.90558 15.87418,0 m -13.88994,-1.98424 11.9057,0 m -9.92133,-1.98437 7.93696,0"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g5733">
+          <g
+             transform="translate(-11.45,3.52)"
+             id="g5735">
+            <g
+               id="g5737">
+              <g
+                 transform="translate(-152.033,-498.152)"
+                 id="g5739">
+                <text
+                   id="text5741"
+                   transform="matrix(1,0,0,-1,152.033,498.152)">
+                  <tspan
+                     id="tspan5743"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 7.8176522 15.289602"
+                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10">GND</tspan>
+                </text>
+                <g
+                   transform="translate(152.033,498.152)"
+                   id="g5745" />
+              </g>
+            </g>
+            <g
+               transform="translate(11.45,-3.52)"
+               id="g5747" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
