@@ -95,17 +95,44 @@ Useful for filtering, smoothing, short term storage of a voltage
 
 ---
 
+
+## Magnetic Flux
+
+$ V = {d\Phi \over dt} $
+
+$ \Phi = \int V dt $
+
+----
+
+
 ## Inductors
+
+Store energy temporarily by creating current loops in a magnetic field
+
+$ \Phi = L \times I $
+
+$ \Rightarrow V = L \times {dI \over dt} $
 
 ---
 
 ## Diodes
 
---- 
+$ I = I_S \left( e^{V \over {n V\_t} } - 1 \right) $
+
+$ V_t = {q\_e \over {k\_B T} } \approx 26 \mathrm{mV}   $ @ 298K (room temp)
+
+For an ideal diode, $ n = 1 $
+
+---
 
 ## FET - switching
 
 ---
+
+## Power
+
+---
+
 
 ## Power Supply Types
 

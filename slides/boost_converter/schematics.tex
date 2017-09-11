@@ -1,0 +1,20 @@
+\documentclass[border=20pt]{standalone}
+\usepackage{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,0) to [D*] (2,0) node [anchor=west] {generic diode}
+		 
+		 (0.5,0) node[anchor=south] {A}	
+		 (1.5,0) node[anchor=south] {K}
+		 
+		 (0,-2) to [sD*,l_=Schottky] (2,-2)
+		 (2.5,-2) to [zzD*,l_=Zener] (4.5,-2)		 
+		 (5,-2.0) to [tD*,l_=Esaki] (7.0,-2)
+
+		 (0,-4) to [VC*,l_=varactor] (2,-4)
+		 (2.5,-4) to [leD*,l_=LED] (4.5,-4)
+		 (5,-4) to [pD*,l_=photodiode] (7,-4)
+		 ;
+	\end{circuitikz}
+\end{document}
