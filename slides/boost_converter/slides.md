@@ -371,7 +371,7 @@ __if people are interested, we will build one in a future session__
   $ D = {T\_{ON} \over {T\_{ON} + T\_{OFF}}} $
 
 
-GRAPH HERE
+<img src="duty_cycle.svg" width=500 />
 
 
 ----
