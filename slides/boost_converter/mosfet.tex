@@ -1,0 +1,20 @@
+\documentclass[border=5pt]{standalone}
+\usepackage{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+	\draw (0,0) node[nigfete] (fet){ }
+	(fet) +(0.5,0) node [anchor=west] {n-channel}
+	(fet.D) node [anchor=west]{D}
+	(fet.G) node[anchor=east]{G}
+	(fet.S) node[anchor=west]{S};
+	
+	\draw(0,-2.5) node[pigfete] (pfet){}
+	(pfet) +(0.5,0) node [anchor=west] {p-channel}
+	(pfet.D) node [anchor=west] {D}
+	(pfet.G) node [anchor=east] {G}
+	(pfet.S) node [anchor=west] {S};
+	
+	\end{circuitikz}
+			
+\end{document}

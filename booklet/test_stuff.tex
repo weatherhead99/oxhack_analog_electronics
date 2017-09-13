@@ -1,0 +1,13 @@
+\documentclass{standalone}
+\usepackage{circuitikz}
+
+\begin{document}
+
+\begin{circuitikz}
+	\draw (0,0) to [short,o-*,i^>=$i_1$]	(2,0)
+	 to [short,-o,i>=$i_2$] (2,-2) ;
+	 \draw (2,0) to [short,-o,i>=$i_3$] (2,2);
+
+\end{circuitikz}
+
+\end{document}
