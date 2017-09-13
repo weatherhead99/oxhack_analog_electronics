@@ -8,7 +8,7 @@
 
 * This isn't comprehensive - if you're interested buy AoE or do online tutorials
 * This isn't intended to explain the physics (though ask me if you're interested)
-* __NEVER__ build your own SMPS from scratch, this is just a concept demonstrator, IRL use pre-built chips and read the datasheet carefully
+* <font color="red">__NEVER__ </font>build your own SMPS from scratch, this is just a concept demonstrator, IRL use pre-built chips and read the datasheet carefully
 * There is a lot to take in here, don't worry if you don't understand immediately
 
 ---
@@ -206,7 +206,7 @@ __We will likely do a whole session on transistor types, today we are just going
 
 * MOSFETs can be made in "n-channel" or "p-channel" (both equally common) and in "enhancement mode" or "depletion mode". 
 * Each type works slightly differently. Today we are using an n-channel enhancement mode MOSFET, the 2N7000.
-* **Take care handling** : MOSFETS are _very_ powerful and useful devices which can handle high voltages & currents, but the gate connection is physically fragile: static discharge will destroy it very easily. 
+* <font color="red">**Take care handling** </font>: MOSFETS are _very_ powerful and useful devices which can handle high voltages & currents, but the gate connection is physically fragile: static discharge will destroy it very easily. 
 
 ----
 
@@ -230,16 +230,16 @@ __We will likely do a whole session on transistor types, today we are just going
 
 ----
 
-**Subthreshold** ($V\_{GS} < V\_{th} $):
+**Subthreshold** <font color="red"> ($V\_{GS} < V\_{th} $) </font>:
 
 $I\_D = K \exp\left( {V\_{GS} - V\_{th} \over nV\_T} \right)$
 
-**Linear Region** ($V\_{GS} > V\_{th};  V\_{DS} \leq \left(V\_{GS} - V\_{th} \right)$):
+**Linear Region** <font color="red"> ($V\_{GS} > V\_{th};  V\_{DS} \leq \left(V\_{GS} - V\_{th} \right)$ )</font> :
 
 $I\_D = K \left( \left(V\_{GS} - V\_{th}\right)V\_{DS} - {V\_{DS}^2 \over 2} \right)$
 
 
-**Active Region** ($V\_{GS} > V\_{th};  V\_{DS} > \left(V\_{GS} - V\_{th} \right)$):
+**Active Region** <font color="red"> ($V\_{GS} > V\_{th};  V\_{DS} > \left(V\_{GS} - V\_{th} \right)$ )</font>:
 
 $I\_D = {K \over 2} \left(V\_{GS} - V\_{th}\right)^2 \left(1+\lambda\left(V\_{DS} - V\_{DSsat}\right)\right)$
 
@@ -397,7 +397,7 @@ Follow instructions on schematic.
 
 This is the first time we've dealt with anything that is remotely likely to smoke or shock you, so:
 
-__If in doubt ask__
+<font color="red">__If in doubt ask__</font>
 	
 
 ---
