@@ -266,6 +266,20 @@ I didn't have time to simulate or build this one, so it's more likely to not wor
 
 ---
 
+### Feedback on Future Ideas
+
+* More "building PCBs & manufacturing" type session?
+
+* Build project based sessions? Any ideas for projects?
+
+* Semiconductor physics experiment/session?
+
+
+
+----
+
+
+
 ### Useful Links
 
 https://artofelectronics.net
