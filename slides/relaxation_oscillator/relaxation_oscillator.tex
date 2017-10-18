@@ -1,0 +1,26 @@
+\documentclass[border=5pt]{standalone}
+\usepackage{circuitikz}
+
+
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,0) node [op amp] (oa) {}
+		
+		(oa.-) to ++(-2,0) node [circ] (int) {}
+		to [C] ++(0,-4) node [ground] {}  
+		
+		(int) to [R] ++(0,2) -| (oa.out) 
+		
+		to [short,-o] ++(1,0)
+		
+		(oa.out) to[short,*-] ++(0,-2)
+		to[R] ++(-3,0)  node [circ] (junc) {}
+		
+		(junc) |- (oa.+)
+		(junc) to [R] ++(0,-1.5) node [ground](){}
+		  ;
+		
+		
+		
+	\end{circuitikz}
+\end{document}
