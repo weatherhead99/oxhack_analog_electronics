@@ -57,7 +57,7 @@
 
 ## Op amp connections
 
-<img src="op_amp.svg" width=200/>
+<img src="op_amp.svg" width=200 style="background-color:white"/>
 
 * Non-inverting (+) and inverting(-) inputs
 * output
@@ -197,7 +197,7 @@ BJT sinks current through the base, MOSFET doesn't sink current through the gate
 * Broadly speaking, two types of analog oscillators: linear and relaxation (nonlinear). We are **only** talking about nonlinear today, we will look at linear (probably) next time (along with resonant circuits)
 
 
----
+----
 
 
 ## Why "nonlinear"
