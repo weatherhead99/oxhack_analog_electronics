@@ -7,14 +7,22 @@
 
 
 ## Recap
-
-* Op amps
-
+<font color="red">
+<strike> 
+ Electrons ,  Energy & Charge ,  Voltage & Current
+<br> Kirchoff's Laws  , Resistors, Capacitors </font>
+<br><font color="orange">  Power, Efficiency, Inductors, Diodes
+<br> Switch mode MOSFET <br>
+</strike>
+</font>
+bbbbbbb<font color="green">
+ Op amps
+</font>
 ## New stuff
 
 * BJTs (__VERY__ briefly)
 * Comparators
-* Oscillator theory
+* Relaxation Oscillators
 
 
 ----
@@ -22,6 +30,7 @@
 ## If you missed previous sessions
 
 * Please ask for recap
+* Read the previous slides & Handouts
 * Please ask questions
 * Please ask for help
 
