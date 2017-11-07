@@ -1,0 +1,22 @@
+\documentclass[border=5pt]{standalone}
+\usepackage{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+	
+	\draw(0,0) node [nigfete] (fet) {}
+	(fet.S) to  [R] ++(0,-2) node [ground] () {} 
+	(fet.S) to [short,*-] ++(1,0) to [C] ++(0,-2) node [ground] () {}
+	(fet.D) to [R] ++(0,2) node (outspl) {} to [short,-o] ++(0,1)
+	
+	(outspl) to [short,*-] ++(2,0) node (fbspl) {} to [C] ++(2,0) node[ocirc] (){} 
+	
+	(fbspl) to [short,*-] ++(0,-7)
+	
+	;
+	
+
+	
+	
+	\end{circuitikz}
+\end{document}
