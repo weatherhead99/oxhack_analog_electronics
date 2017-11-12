@@ -1,0 +1,13 @@
+\documentclass[border=5pt]{standalone}
+\usepackage{circuitikz}
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,0) node [npn] (tran) {}
+		
+		(tran.collector) node [anchor=east]{collector}
+		
+		(tran.base) node [anchor=south] {base}
+		(tran.emitter) node [anchor=east] { emitter}
+		;	
+	\end{circuitikz}
+\end{document}
