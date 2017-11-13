@@ -1,0 +1,10 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[americanvoltage]{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,0) to [L,v<=$v$,i<=$i$] ++(0,2) 
+		|- ++(2,0) to [C] ++(0,-2) -| (0,0)
+		 ;
+	\end{circuitikz}
+\end{document}

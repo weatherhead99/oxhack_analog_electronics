@@ -1,0 +1,18 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[americanvoltage]{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+		\draw(0,0) to [amp,t=A] ++( 1,0)
+		to  ++(1,0) node (split){}
+		to [short,-*] ++(1,0)
+		node [anchor=west](){out}
+		
+		(split) to [short,*-] ++(0,-1.5)
+		to [twoport,t=$\beta(j\omega)$] ++(-3,0)
+		
+		to ++(0,1.5) to (0,0)
+		 
+		;
+	\end{circuitikz}
+\end{document}

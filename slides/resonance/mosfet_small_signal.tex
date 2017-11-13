@@ -1,0 +1,23 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[americanvoltage]{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,0) node [ocirc] () {}
+		node [anchor=east] () {G}
+		 
+		 to [open,v=$V_{GS}$] ++(0,-2)
+		 to [short,o-] ++(2,0) node (cent) {}		 
+		 to[short,*-] ++(0,-1) node [ocirc] (){}
+		 node [anchor=north] () {S}
+		 
+		 (cent) to [short] ++(1.5,0)
+		 to [R,label=$r_0$] ++(0,2) node [circ] (){}
+		 
+		 (cent) to [american controlled current source,label=$g_mV_{GS}$] ++(0,2)
+		 to ++(2.5,0) node[ocirc] () {}
+		 node[anchor=west] () {D}
+		 
+		;
+	\end{circuitikz}
+\end{document}
