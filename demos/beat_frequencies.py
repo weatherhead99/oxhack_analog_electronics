@@ -37,7 +37,7 @@ lin2 = ax1.plot(ts,y1s,c="blue")[0]
 
 linsum = ax2.plot(ts,2*y1s,c="purple")[0]
 
-sldr = Slider(sldax,"frequency",0.9,1.1,1.0)
+sldr = Slider(sldax,"frequency",0.2,1.8,1.0)
 
 
 def update_freq(v):
