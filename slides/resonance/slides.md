@@ -6,9 +6,24 @@
 ---
 
 ## Recap 
-
+<font color="red">
+<strike> 
+ Electrons ,  Energy & Charge ,  Voltage & Current
+<br> Kirchoff's Laws </font>
+<br><font color="orange">  Power, Efficiency, Diodes, op amps
+</strike>
+</font>
+<font color="green"><br>
+ MOSFET, Capacitors, Inductors
+</font>
 
 ## New Stuff
+
+* Hybrid-pi MOSFET model
+* Tank resonator
+* Complex Impedance & Fourier series
+* Colpitts Oscillator
+
 
 ----
 
@@ -146,16 +161,125 @@ $ f = {1 \over {2\pi \sqrt{LC}}} $
 
 ## Mathematics (aside)
 
+* When talking about AC signals, we generally use the mathematics of complex numbers, which  "automatically" takes care of adding things up including phases
+
+* The following are equivalent electrically (some details omitted!) (see python demo)
+
+$ V(t) = V\_0 \mathrm{sin}\left(\omega t\right)$
+
+$V(t) = V\_0 e^{j\omega t}$
+
+
+----
+
+## Fourier Series
+
+* Any periodic function can be written as a sum of "pure" frequencies
+
+$ V(t) = \sum\_{n=0}^\infty  A\_n e^{j\omega\_nt} $
+
+* This has basis physically (because infinite frequencies require infinite energy)
+
+* The basic idea behind all frequency domain analysis
+
+
+----
+
+## Fourier Series Demo
+
+* Square wave:
+
+$f(t) = {4 \over \pi} \sum\_{n=1,3,5...}^\infty {1 \over n} \mathrm{sin} \left( n \omega t \over 2 \right) $
+
+* Triangle wave:
+
+$ f(t) = {8 \over \pi ^2} \sum\_{n=1,3,5...}^\infty { (-1)^{(n-1)/2} \over n^2} \mathrm{sin} \left(n \omega t \over 2 \right) $
+
 
 ---
 
+### Integration & Differentiation
 
+* Periodic functions can be written as Fourier Series (sum of sine waves)
 
-## Impedance and Frequency Analysis
+* Therefore, can differentiate / integrate function by doing this to each sine wave
+
+$ {d \over dt} Ae^{j\omega t} = j\omega \times Ae^{j\omega t} $
+
+* So, for periodic functions of frequency $\omega$, differentiating is equivalent to multiplying by $j\omega$
 
 
 ---
 
+### Impedance and Frequency Analysis
+
+* Define **impedance** (like resistance) as:
+
+$ Z = { V(\omega) \over I(\omega)}$
+
+* In general, this is a complex quantity (remember this just accounts for phases naturally)
+
+$ Z = R + j X $
+
+* R is called "resistance", X is called "reactance"
+
+----
+
+### Impedance of components - Capacitor
+
+$ I = C {dV\over dt}$ 
+
+$ I = C \times j \omega V$
+
+$ \therefore Z\_C = {V \over I } = {1 \over j \omega C}$
+
+
+
+----
+
+### Impedance of components - Inductor
+
+$ V = L {dI \over dt} $
+
+$ V = L \times j \omega I $
+
+$\therefore Z\_L = {V \over I} =  { j \omega L } $
+
+
+----
+
+* Can now add up impedances like resistors to get frequency dependence of any circuit 
+
+* e.g. parallel tank resonator:
+
+$ {1 \over Z} = {1 \over Z\_L} + {1 \over Z\_C} $
+
+$ Z = {1 \over j\omega C + {1 \over j \omega L} } $
+
+$ Z = { j \omega L \over 1 - \omega^2 L C } $
+
+
+----
+
+* From this can take magnitude and phase to determine frequency response
+
+$ |Z| = {1 \over C} {\omega \over { \omega\_0^2 - \omega^2} } $
+
+$ \angle Z = 0 $
+
+with 
+
+$ \omega\_0 = {1 \over \sqrt{LC}}$
+
+* note if you add resistance, phase shift becomes none zero!
+
+----
+
+<img src="LC_tank.svg" style="background-color:white"/>
+
+
+
+---
 
 ## Barkhausen Criterion
 
@@ -171,8 +295,12 @@ $|\beta A | = 1$ <font color="red"> and </font>  $\angle \beta A = 2n\pi$
 
 
 ## Colpitts Oscillator
+General idea:
 
-<img src="colpitts.svg" style="background-color:white" width=500/>
+<img src="colpitts.svg" style="background-color:white" width=300/>
+
+Look at this:
+http://www.falstad.com/circuit/e-colpitts.html
 
 ----
 
