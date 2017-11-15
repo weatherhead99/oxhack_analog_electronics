@@ -84,3 +84,4 @@ def update_phase(v):
 plt.tight_layout()    
 
 slphase.on_changed(update_phase)
+plt.show(block=True)

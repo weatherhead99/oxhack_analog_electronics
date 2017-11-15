@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov 14 23:55:34 2017
-
-@author: danw
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Nov 14 22:47:06 2017
 
 @author: danw
@@ -57,4 +49,4 @@ def update_freq(v):
 sldr.on_changed(update_freq)
 
 
-plt.show()
+plt.show(block=True)

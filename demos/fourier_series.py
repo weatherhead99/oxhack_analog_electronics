@@ -63,4 +63,4 @@ tri_sld.on_changed(lambda v: plot_fseries(tri_wave_fourier_series,ylin2,v))
 
 plt.tight_layout()
 
-plt.show()
+plt.show(block=True)
