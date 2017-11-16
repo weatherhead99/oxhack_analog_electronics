@@ -147,3 +147,4 @@ if __name__ == "__main__":
     plt.connect("motion_notify_event",tang.move_event)
 
         
+plt.show(block=True)
