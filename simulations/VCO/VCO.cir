@@ -1,31 +1,26 @@
-* /home/danw/Documents/oxhack_analog_electronics/schematics/VCO/VCO.cir
+* /home/danw/Documents/oxhack_analog_electronics/simulations/VCO/VCO.cir
 
-* EESchema Netlist Version 1.1 (Spice format) creation date: Mon 20 Nov 2017 23:14:27 GMT
+* EESchema Netlist Version 1.1 (Spice format) creation date: Tue 21 Nov 2017 02:52:53 GMT
 
 * To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
 * To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
 .include 2N7000.REV0.SP3
 .include TL081.301
-.param control_v =3
 
 * Sheet Name: /
-XU1  16 17 1 3 13 TL081		;Node Sequence Spec.<3,2,7,4,6>
-C2  1 14 10nF		
-C3  3 14 10nF		
-XU2  15 13 1 3 5 TL081		;Node Sequence Spec.<3,2,7,4,6>
-C4  1 14 10nF		
-C5  3 14 10nF		
-R1  16 4 100k		
-R2  16 14 49.9k		
-R3  17 4 100k		
-C1  13 17 10nF		
-XQ1  14 5 12 2n7000		
-R4  17 12 49.9k		
-R6  15 14 100k		
-R7  5 15 100k		
-R5  1 15 380k		
-V1  1 14 +12		
-V2  2 3 +12		
-V3  4 14 control_v		
+XU1  Net-_R1-Pad1_ Net-_C1-Pad2_ VCC VEE TRI_OUT TL081		;Node Sequence Spec.<3,2,7,4,6>
+XU2  Net-_R5-Pad2_ TRI_OUT VCC VEE SQUARE_OUT TL081		;Node Sequence Spec.<3,2,7,4,6>
+R1  Net-_R1-Pad1_ CONTROL_IN 10k		
+R2  Net-_R1-Pad1_ 0 10k		
+R3  Net-_C1-Pad2_ CONTROL_IN 100k		
+C1  TRI_OUT Net-_C1-Pad2_ 10nF		
+XQ1  Net-_R4-Pad2_ SQUARE_OUT 0 2n7000		;Node Sequence Spec.<3,2,1>
+R4  Net-_C1-Pad2_ Net-_R4-Pad2_ 49.9k		
+R6  Net-_R5-Pad2_ 0 100k		
+R7  SQUARE_OUT Net-_R5-Pad2_ 100k		
+R5  VCC Net-_R5-Pad2_ 380k		
+V1  0 VEE 12		
+V2  CONTROL_IN 0 DC 5		
+V3  VCC 0 12		
 
 .end
