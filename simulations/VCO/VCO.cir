@@ -1,0 +1,26 @@
+* /home/danw/Documents/oxhack_analog_electronics/simulations/VCO/VCO.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Tue 21 Nov 2017 02:52:53 GMT
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+.include 2N7000.REV0.SP3
+.include TL081.301
+
+* Sheet Name: /
+XU1  Net-_R1-Pad1_ Net-_C1-Pad2_ VCC VEE TRI_OUT TL081		;Node Sequence Spec.<3,2,7,4,6>
+XU2  Net-_R5-Pad2_ TRI_OUT VCC VEE SQUARE_OUT TL081		;Node Sequence Spec.<3,2,7,4,6>
+R1  Net-_R1-Pad1_ CONTROL_IN 10k		
+R2  Net-_R1-Pad1_ 0 10k		
+R3  Net-_C1-Pad2_ CONTROL_IN 100k		
+C1  TRI_OUT Net-_C1-Pad2_ 10nF		
+XQ1  Net-_R4-Pad2_ SQUARE_OUT 0 2n7000		;Node Sequence Spec.<3,2,1>
+R4  Net-_C1-Pad2_ Net-_R4-Pad2_ 49.9k		
+R6  Net-_R5-Pad2_ 0 100k		
+R7  SQUARE_OUT Net-_R5-Pad2_ 100k		
+R5  VCC Net-_R5-Pad2_ 380k		
+V1  0 VEE 12		
+V2  CONTROL_IN 0 DC 5		
+V3  VCC 0 12		
+
+.end

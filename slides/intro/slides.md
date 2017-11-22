@@ -28,6 +28,16 @@ it's mostly there for completeness
 
 * This won't teach you how to actually build cool projects - see Oxhack's digital sessions
 
+----
+
+## Costs
+
+* Printed schematics & info sheets are provided
+* All the components you need to build every circuit are provided
+
+* The cost is about £5 for the whole course
+
+
 ---
 
 ## Analog Electronics
