@@ -250,7 +250,42 @@ Useful for filtering, smoothing, short term storage of a voltage
 the circuit doesn't have to be laid out the same way as the schematic - all that matters is the topology of the connections!
 </font>
 
+
+----
+
+## Oscilloscope
+
+* Used for viewing voltage signals as a function of time
+* Important things to be aware of:
+  * probe coupling
+  * probe attenuation
+  * All the grounds are connected together
+  
+(oscilloscope demo & practical)
+
+
+----
+
+
+## Signal Generator
+
+* Used to generate test signals
+
+(sig gen demo & practical)
+
+
+----
+
+
+# Multimeter
+
+* Used to measure DC currents & voltages accurately
+* Check values of resistors and capacitors
+* Test diodes & continuity
+
+
 ---
+
 
 ## RC Filters
 <img src="filters.svg" width=300 style="background-color:white" />
