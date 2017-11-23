@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:colpitts-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -44,7 +45,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 2N7002 Q1
+L 2N7002-RESCUE-colpitts Q1
 U 1 1 5A0A259D
 P 8750 3550
 F 0 "Q1" H 8950 3625 50  0000 L CNN
@@ -64,17 +65,6 @@ F 2 "" V 8130 3000 50  0001 C CNN
 F 3 "" H 8200 3000 50  0001 C CNN
 	1    8200 3000
 	0    1    1    0   
-$EndComp
-$Comp
-L L L1
-U 1 1 5A0A26E3
-P 7550 3300
-F 0 "L1" V 7500 3300 50  0000 C CNN
-F 1 "10 mH" V 7625 3300 50  0000 C CNN
-F 2 "" H 7550 3300 50  0001 C CNN
-F 3 "" H 7550 3300 50  0001 C CNN
-	1    7550 3300
-	1    0    0    -1  
 $EndComp
 $Comp
 L C C1
@@ -116,9 +106,6 @@ Wire Wire Line
 Connection ~ 6750 3600
 Wire Wire Line
 	7300 3600 8550 3600
-Wire Wire Line
-	7550 3600 7550 3450
-Connection ~ 7550 3600
 $Comp
 L GND #PWR3
 U 1 1 5A0A2949
@@ -133,7 +120,7 @@ $EndComp
 Wire Wire Line
 	8850 4050 8850 3750
 $Comp
-L R_Variable R2
+L RVAR R2
 U 1 1 5A0A29C5
 P 8850 2400
 F 0 "R2" V 8950 2300 50  0000 L CNN
@@ -148,12 +135,7 @@ Wire Wire Line
 Wire Wire Line
 	6750 3000 8050 3000
 Wire Wire Line
-	7550 3150 7550 3000
-Connection ~ 7550 3000
-Wire Wire Line
 	8350 3000 8850 3000
-Wire Wire Line
-	8850 2550 8850 3350
 Connection ~ 8850 3000
 $Comp
 L VCC #PWR2
@@ -166,8 +148,6 @@ F 3 "" H 8850 1850 50  0001 C CNN
 	1    8850 1850
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8850 1850 8850 2250
 Text Notes 9250 2500 0    60   ~ 0
 NOTE:\nUse 2 legs of 1k pot\nstart at middle resistance!!!!
 Wire Wire Line
@@ -2450,7 +2430,7 @@ F 3 "" H 1800 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L L?
+L INDUCTOR L?
 U 1 1 5A0A40F3
 P 1550 3300
 F 0 "L?" V 1500 3300 50  0000 C CNN
@@ -2472,8 +2452,6 @@ F 3 "" H 2300 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1550 3150 1550 2800
-Wire Wire Line
 	1550 2800 3450 2800
 Wire Wire Line
 	2300 2800 2300 3150
@@ -2491,8 +2469,6 @@ F 3 "" H 1950 3700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1550 3700 2300 3700
-Wire Wire Line
-	1550 3700 1550 3450
 Wire Wire Line
 	2300 3700 2300 3450
 Connection ~ 1950 3700
@@ -2584,4 +2560,25 @@ Text GLabel 1400 1750 0    60   Input ~ 0
 V_in
 Wire Wire Line
 	1400 1750 1800 1750
+$Comp
+L INDUCTOR L?
+U 1 1 5A0C3D2E
+P 7600 3300
+F 0 "L?" V 7550 3300 50  0000 C CNN
+F 1 "INDUCTOR" V 7700 3300 50  0000 C CNN
+F 2 "" H 7600 3300 50  0000 C CNN
+F 3 "" H 7600 3300 50  0000 C CNN
+	1    7600 3300
+	1    0    0    -1  
+$EndComp
+Connection ~ 7600 3000
+Connection ~ 7600 3600
+Wire Wire Line
+	8850 2650 8850 3350
+Wire Wire Line
+	8850 2150 8850 1850
+Wire Wire Line
+	1550 3600 1550 3700
+Wire Wire Line
+	1550 2800 1550 3000
 $EndSCHEMATC
