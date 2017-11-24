@@ -12,6 +12,8 @@
 * Resistors
 * Capacitors
 
+## New Stuff
+* Op Amps
 
 ----
 
@@ -47,7 +49,7 @@ A common (but arbitrary) voltage reference point for a circuit, chosen to have 0
 
 1) Current at a node adds up to 0 (electrons can't be created or destroyed)
 
-<img src="kirchoff1.svg" width=250 />
+<img src="kirchoff1.svg" width=250 style="background-color:white"/>
 
 
 
@@ -57,7 +59,7 @@ A common (but arbitrary) voltage reference point for a circuit, chosen to have 0
 
 2) Voltage around a loop adds up to 0 (energy change must all be accounted for)
 
-<img src="kirchoff2.svg" width=250/>
+<img src="kirchoff2.svg" width=250 style="background-color:white"/>
 
 
 
@@ -67,7 +69,7 @@ A common (but arbitrary) voltage reference point for a circuit, chosen to have 0
 ### Resistors
 
 
-<img src="resistor.svg" width=250/>
+<img src="resistor.svg" width=250 style="background-color:white"/>
 
 Dissipate energy as heat
 
@@ -81,7 +83,7 @@ Useful for converting current into voltage (or vice versa), defining ratios of v
 
 ### capacitors
 
-<img src="capacitor.svg" width=200/>
+<img src="capacitor.svg" width=200 style="background-color:white"/>
 
 Store energy temporarily by separating charge in an electric field.
 
@@ -108,7 +110,7 @@ Useful for filtering, smoothing, short term storage of a voltage
 
 ## Op amp connections
 
-<img src="op_amp.svg" width=200/>
+<img src="op_amp.svg" width=200 style="background-color:white"/>
 
 * Non-inverting (+) and inverting(-) inputs
 * output
@@ -154,6 +156,21 @@ For this session we will build various ideal op amp circuits and analyse them us
 # Derivation for inverting op amp
 
 Feel free to go for a coffee if you don't want to sit through the maths!
+
+
+---
+
+## Op amp choices
+
+* There are thousands of op amp designs on the market. 
+* Most important performance parameters include:
+  - Gain - Bandwidth product (GBP)
+  - Slew Rate
+  - Rail to Rail capability?
+  - Input resistance
+  - Current Drive capability
+  - Power consumption
+  - 
 
 
 ---
