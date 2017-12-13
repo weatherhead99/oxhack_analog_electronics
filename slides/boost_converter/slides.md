@@ -57,7 +57,7 @@ A common (but arbitrary) voltage reference point for a circuit, chosen to have 0
 
 1) Current at a node adds up to 0 (electrons can't be created or destroyed)
 
-<img src="kirchoff1.svg" width=250 />
+<img src="kirchoff1.svg" width=250 style="background-color:white"/>
 
 
 
@@ -67,7 +67,7 @@ A common (but arbitrary) voltage reference point for a circuit, chosen to have 0
 
 2) Voltage around a loop adds up to 0 (energy change must all be accounted for)
 
-<img src="kirchoff2.svg" width=250/>
+<img src="kirchoff2.svg" width=250 style="background-color:white"/>
 
 
 
@@ -77,7 +77,7 @@ A common (but arbitrary) voltage reference point for a circuit, chosen to have 0
 ### Resistors
 
 
-<img src="resistor.svg" width=250/>
+<img src="resistor.svg" width=250 style="background-color:white"/>
 
 Dissipate energy as heat
 
@@ -91,7 +91,7 @@ Useful for converting current into voltage (or vice versa), defining ratios of v
 
 ### capacitors
 
-<img src="capacitor.svg" width=200/>
+<img src="capacitor.svg" width=200 style="background-color:white" />
 
 Store energy temporarily by separating charge in an electric field.
 
@@ -123,7 +123,7 @@ Don't worry too much about it for now (here for completeness)...
 
 ## Inductors
 
-<img src="inductor.svg" width=200/>
+<img src="inductor.svg" width=200 style="background-color:white"/>
 
 Store energy temporarily by creating current loops in a magnetic field
 
@@ -157,13 +157,13 @@ $ V_t = {q\_e \over {k\_B T} } \approx 26 \mathrm{mV}   $ @ 298K (room temp)
 
 For an "ideal" diode, $ n = 1 $
 
-<img src="Diode-characteristics-curve.png"/>
+<img src="Diode-characteristics-curve.png" style="background-color:white"/>
 
 ----
 
 ### Diode Types
 
-<img src="diodes.svg" width=420/>
+<img src="diodes.svg" width=420 style="background-color:white"/>
 
 - Some specialized constructions of diodes are used for specific applications.
 - Today we will use: Schottky diode & LED
@@ -187,7 +187,7 @@ For an "ideal" diode, $ n = 1 $
 
 **M**etal **O**xide **S**emiconductor **F**ield **E**ffect **T**ransistor
 
-<img src="n-channel-e-mosfet-structure.jpg"/>
+<img src="n-channel-e-mosfet-structure.jpg" style="background-color:white"/>
 
 
 ----
@@ -215,14 +215,14 @@ __We will likely do a whole session on transistor types, today we are just going
 * Gate is drawn on the Source side
 * arrow direction indicates p or n type, remember "N goes IN"
 
-<img src="mosfet.svg" width=300/>
+<img src="mosfet.svg" width=300 style="background-color:white"/>
 
 
 ----
 
 ### MOSFET Characteristics
 
-<img src="IvsV_mosfet.svg" />
+<img src="IvsV_mosfet.svg" style="background-color:white"/>
 
 * Current through MOSFET depends on $V\_{DS}$ and $V\_{GS}$
 * For n-channel enhancement type, increasing $V\_{GS}$ or $V\_{DS}$ increases current
@@ -311,7 +311,7 @@ __if people are interested, we will build one in a future session__
 
 * DC to DC conversion - usually boost, but can also buck and even invert!
 
-<img src="Simple_SC_doubler_schematic.svg"/ width=400>
+<img src="Simple_SC_doubler_schematic.svg"/ width=400 style="background-color:white">
 
 By Courtesy Spinningspark at Wikipedia, CC BY-SA 3.0
 
@@ -348,7 +348,7 @@ __if people are interested, we will build one in a future session__
 
 ## Boost Converter
 
-<img src="SMPS.svg" width=300 />
+<img src="SMPS.svg" width=300 style="background-color:white"/>
 
 - switch connected to ground: current ramps up through the inductor. Load is supplied by the capacitor
 
@@ -358,7 +358,7 @@ __if people are interested, we will build one in a future session__
 
 ## Practical Implementation
 
-<img src="SMPS_impl.svg" width=500/>
+<img src="SMPS_impl.svg" width=500 style="background-color:white"/>
 
 - Using all the components we looked at today!
 - Take some time to try and understand the concept
@@ -371,7 +371,7 @@ __if people are interested, we will build one in a future session__
   $ D = {T\_{ON} \over {T\_{ON} + T\_{OFF}}} $
 
 
-<img src="duty_cycle.svg" width=500 />
+<img src="duty_cycle.svg" width=500 style="background-color:white"/>
 
 
 ----
