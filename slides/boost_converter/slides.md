@@ -157,7 +157,7 @@ $ V_t = {q\_e \over {k\_B T} } \approx 26 \mathrm{mV}   $ @ 298K (room temp)
 
 For an "ideal" diode, $ n = 1 $
 
-<img src="Diode-characteristics-curve.png" style="background-color:white"/>
+<img src="Diode-characteristics-curve.png"/>
 
 ----
 
