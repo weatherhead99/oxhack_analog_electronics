@@ -5,6 +5,8 @@ This repository contains the slides, schematics and demos which are used in the 
 
 Some very brief instructions for how to use these resources follows below. Also, descriptions of the sessions which have been run so far.
 
+You can find browseable versions of the slides and schematics [here](https://weatherhead99.github.io/oxhack_analog_electronics/). These are getting put up as the second set of sessions are run, so not all of the sessions are up yet.
+
 
 Resources
 =========
