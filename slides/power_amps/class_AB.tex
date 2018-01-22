@@ -1,0 +1,47 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[americanvoltage]{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,2) node [npn] (Q1) {} 
+		(0,-2) node [pnp] (Q2) {}
+		
+		(Q1.emitter) to (Q2.emitter)
+		
+		(Q1.emitter) +(0,-1.25) to [C,*-o] ++(2,-1.25)
+		node [anchor=west] () {$V_\mathrm{out}$}
+		
+		
+		
+		(Q1.base) to [C] ++(-2,0) to ++(0,-2)
+		node [circ] (in) {} to ++(0,-2)
+		to [C] ++(2,0)
+		
+		(in) to[short,-o] ++(-2,0) 
+		node [anchor=east] () {$V_\mathrm{in}$}
+		
+		
+		(Q1.base) + (-0.5,0) to [R,*-o,label=$R_1$] ++(-0.5,2)
+		node [anchor=south] () {$V_+$}
+	
+	
+		(Q1.base) + (-0.5,0) to [D*] ++(-0.5,-2)
+		to [D*] ++(-0,-2)
+	
+		
+		(Q2.base) + (-0.5,0) to [R,*-,label=$R_2$] ++(-0.5,-2)
+		node [ground] () {}
+		
+		
+		(Q2.collector) to ++(0,-1.25) node [ground] () {}
+		
+		(Q1.collector) to ++(0,1.25) node [ocirc] () {}
+		node [anchor=south] () {$V_+$}
+		
+		
+		
+		;
+	
+	
+	\end{circuitikz}
+\end{document}

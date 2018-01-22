@@ -1,0 +1,31 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[americanvoltage]{circuitikz}
+
+\begin{document}
+	\begin{circuitikz}
+		\draw (0,0) node [npn] (Q) {} 
+		(Q.collector) node [circ] (out) {}
+		to [R,label=$R_C$] ++(0,2) node [ocirc] () {}
+		node [anchor=south] () {$V_+$}
+		
+		(out) to [C] ++(2,0) node [ocirc] () {}
+		node[anchor=west] () {$V_\mathrm{out}$}
+		
+		
+		(Q.base) to ++(-1,0) node [circ] (bias) {}
+ 		 to [C] ++(-2,0) node [ocirc] () {}
+		node[anchor=east] () {$V_\mathrm{in}$}
+		
+		(bias) to [R,label=$R_1$] ++(0,2) node [ocirc] () {}
+		node[anchor=south] () {$V_+$}
+		
+		(bias) to [R,label=$R_2$] ++(0,-2) node [ground] () {}
+		
+		(Q.emitter) to ++(0,-1.25) node [ground] () {}
+		
+		
+		;
+	
+	
+	\end{circuitikz}
+\end{document}
