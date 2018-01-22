@@ -1,0 +1,125 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L pspice:QNPN Q?
+U 1 1 5A661536
+P 6325 2700
+F 0 "Q?" H 6552 2746 50  0000 L CNN
+F 1 "QNPN" H 6552 2655 50  0000 L CNN
+F 2 "" H 6325 2700 50  0001 C CNN
+F 3 "" H 6325 2700 50  0001 C CNN
+	1    6325 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:QPNP Q?
+U 1 1 5A6615FD
+P 6325 4200
+F 0 "Q?" H 6552 4154 50  0000 L CNN
+F 1 "QPNP" H 6552 4245 50  0000 L CNN
+F 2 "" H 6325 4200 50  0001 C CNN
+F 3 "" H 6325 4200 50  0001 C CNN
+	1    6325 4200
+	1    0    0    1   
+$EndComp
+$Comp
+L pspice:0 #GND?
+U 1 1 5A6616C5
+P 6475 5275
+F 0 "#GND?" H 6475 5175 50  0001 C CNN
+F 1 "0" H 6475 5362 50  0000 C CNN
+F 2 "" H 6475 5275 50  0001 C CNN
+F 3 "" H 6475 5275 50  0001 C CNN
+	1    6475 5275
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6475 5275 6475 4550
+Wire Wire Line
+	6475 3850 6475 3050
+$Comp
+L power:VDD #PWR?
+U 1 1 5A661806
+P 6475 1475
+F 0 "#PWR?" H 6475 1325 50  0001 C CNN
+F 1 "VDD" H 6492 1648 50  0000 C CNN
+F 2 "" H 6475 1475 50  0001 C CNN
+F 3 "" H 6475 1475 50  0001 C CNN
+	1    6475 1475
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6475 1475 6475 2350
+$Comp
+L pspice:DIODE D?
+U 1 1 5A661B60
+P 5250 3075
+F 0 "D?" V 5204 3203 50  0000 L CNN
+F 1 "DIODE" V 5295 3203 50  0000 L CNN
+F 2 "" H 5250 3075 50  0001 C CNN
+F 3 "" H 5250 3075 50  0001 C CNN
+	1    5250 3075
+	0    1    1    0   
+$EndComp
+$Comp
+L pspice:DIODE D?
+U 1 1 5A661BF4
+P 5250 3675
+F 0 "D?" V 5204 3803 50  0000 L CNN
+F 1 "DIODE" V 5295 3803 50  0000 L CNN
+F 2 "" H 5250 3675 50  0001 C CNN
+F 3 "" H 5250 3675 50  0001 C CNN
+	1    5250 3675
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5250 3875 5250 4200
+Wire Wire Line
+	5250 4200 6025 4200
+Wire Wire Line
+	5250 3275 5250 3475
+Wire Wire Line
+	5250 2875 5250 2700
+Wire Wire Line
+	5250 2700 6025 2700
+$Comp
+L pspice:R R?
+U 1 1 5A661DA1
+P 5250 2150
+F 0 "R?" H 5318 2196 50  0000 L CNN
+F 1 "R" H 5318 2105 50  0000 L CNN
+F 2 "" H 5250 2150 50  0001 C CNN
+F 3 "" H 5250 2150 50  0001 C CNN
+	1    5250 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 2400 5250 2700
+Connection ~ 5250 2700
+$Comp
+L power:VDD #PWR?
+U 1 1 5A661EB1
+P 5250 1475
+F 0 "#PWR?" H 5250 1325 50  0001 C CNN
+F 1 "VDD" H 5267 1648 50  0000 C CNN
+F 2 "" H 5250 1475 50  0001 C CNN
+F 3 "" H 5250 1475 50  0001 C CNN
+	1    5250 1475
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 1475 5250 1900
+$EndSCHEMATC
