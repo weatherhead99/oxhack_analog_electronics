@@ -71,23 +71,18 @@ F 3 "" H 6475 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6475 2000 6475 2350
-Wire Wire Line
 	5250 2700 6025 2700
 $Comp
 L pspice:R R5
 U 1 1 5A661DA1
 P 5250 2150
 F 0 "R5" H 5318 2196 50  0000 L CNN
-F 1 "10k" H 5318 2105 50  0000 L CNN
+F 1 "1k" H 5318 2105 50  0000 L CNN
 F 2 "" H 5250 2150 50  0001 C CNN
 F 3 "" H 5250 2150 50  0001 C CNN
 	1    5250 2150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5250 2400 5250 2700
-Connection ~ 5250 2700
 $Comp
 L power:VDD #PWR03
 U 1 1 5A661EB1
@@ -131,15 +126,15 @@ $EndComp
 $Comp
 L pspice:R R6
 U 1 1 5A6625E0
-P 9275 4350
-F 0 "R6" H 9343 4396 50  0000 L CNN
-F 1 "25" H 9343 4305 50  0000 L CNN
-F 2 "" H 9275 4350 50  0001 C CNN
-F 3 "" H 9275 4350 50  0001 C CNN
-F 4 "R" H 9275 4350 60  0001 C CNN "Spice_Primitive"
-F 5 "25" H 9275 4350 60  0001 C CNN "Spice_Model"
-F 6 "Y" H 9275 4350 60  0001 C CNN "Spice_Netlist_Enabled"
-	1    9275 4350
+P 9275 3950
+F 0 "R6" H 9343 3996 50  0000 L CNN
+F 1 "25" H 9343 3905 50  0000 L CNN
+F 2 "" H 9275 3950 50  0001 C CNN
+F 3 "" H 9275 3950 50  0001 C CNN
+F 4 "R" H 9275 3950 60  0001 C CNN "Spice_Primitive"
+F 5 "25" H 9275 3950 60  0001 C CNN "Spice_Model"
+F 6 "Y" H 9275 3950 60  0001 C CNN "Spice_Netlist_Enabled"
+	1    9275 3950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -153,10 +148,6 @@ F 3 "" H 9275 5175 50  0001 C CNN
 	1    9275 5175
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9275 5175 9275 4850
-Wire Wire Line
-	9275 4100 9275 3850
 Connection ~ 6475 3400
 Wire Wire Line
 	6475 3400 6475 3050
@@ -292,33 +283,19 @@ Connection ~ 1875 2450
 Wire Wire Line
 	1875 2450 1875 2550
 $Comp
-L pspice:INDUCTOR 230u1
+L pspice:INDUCTOR 50u1
 U 1 1 5A666D29
-P 9950 4350
-F 0 "230u1" V 9904 4428 50  0000 L CNN
-F 1 "INDUCTOR" V 9995 4428 50  0000 L CNN
-F 2 "" H 9950 4350 50  0001 C CNN
-F 3 "" H 9950 4350 50  0001 C CNN
-F 4 "L" H 9950 4350 60  0001 C CNN "Spice_Primitive"
-F 5 "230u" H 9950 4350 60  0001 C CNN "Spice_Model"
-F 6 "Y" H 9950 4350 60  0001 C CNN "Spice_Netlist_Enabled"
-	1    9950 4350
+P 9275 4575
+F 0 "50u1" V 9229 4653 50  0000 L CNN
+F 1 "INDUCTOR" V 9320 4653 50  0000 L CNN
+F 2 "" H 9275 4575 50  0001 C CNN
+F 3 "" H 9275 4575 50  0001 C CNN
+F 4 "L" H 9275 4575 60  0001 C CNN "Spice_Primitive"
+F 5 "50u" H 9275 4575 60  0001 C CNN "Spice_Model"
+F 6 "N" H 9275 4575 60  0001 C CNN "Spice_Netlist_Enabled"
+	1    9275 4575
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	9950 4600 9950 4850
-Wire Wire Line
-	9950 4850 9275 4850
-Connection ~ 9275 4850
-Wire Wire Line
-	9275 4850 9275 4600
-Wire Wire Line
-	9950 4100 9950 3850
-Wire Wire Line
-	9950 3850 9275 3850
-Connection ~ 9275 3850
-Wire Wire Line
-	9275 3850 9275 3400
 Wire Notes Line
 	8675 3650 10950 3650
 Wire Notes Line
@@ -414,64 +391,105 @@ Text Label 5600 2700 0    60   ~ 0
 N_GATE
 Text Label 5600 4200 0    60   ~ 0
 P_GATE
-$Comp
-L pspice:DIODE D1
-U 1 1 5A66A983
-P 5250 3200
-F 0 "D1" V 5204 3328 50  0000 L CNN
-F 1 "1N4148" V 5295 3328 50  0000 L CNN
-F 2 "" H 5250 3200 50  0001 C CNN
-F 3 "" H 5250 3200 50  0001 C CNN
-F 4 "X" H 5250 3200 60  0001 C CNN "Spice_Primitive"
-F 5 "1N4148" H 5250 3200 60  0001 C CNN "Spice_Model"
-F 6 "Y" H 5250 3200 60  0001 C CNN "Spice_Netlist_Enabled"
-F 7 "spice_components.lib" H 5250 3200 60  0001 C CNN "Spice_Lib_File"
-	1    5250 3200
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5250 2700 5250 3000
 Wire Wire Line
 	7250 775  7250 850 
 Wire Wire Line
 	8250 850  8250 1225
 Text Notes 7550 725  0    60   ~ 0
 measurement resistor\n
-$Comp
-L pspice:DIODE D2
-U 1 1 5A66FB13
-P 5250 3750
-F 0 "D2" V 5204 3878 50  0000 L CNN
-F 1 "1N4148" V 5295 3878 50  0000 L CNN
-F 2 "" H 5250 3750 50  0001 C CNN
-F 3 "" H 5250 3750 50  0001 C CNN
-F 4 "X" H 5250 3750 60  0001 C CNN "Spice_Primitive"
-F 5 "1N4148" H 5250 3750 60  0001 C CNN "Spice_Model"
-F 6 "Y" H 5250 3750 60  0001 C CNN "Spice_Netlist_Enabled"
-F 7 "spice_components.lib" H 5250 3750 60  0001 C CNN "Spice_Lib_File"
-	1    5250 3750
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5250 3400 5250 3550
-Wire Wire Line
-	4125 4200 5250 4200
-Wire Wire Line
-	5250 3950 5250 4200
-Connection ~ 5250 4200
-Wire Wire Line
-	5250 4200 6025 4200
 Connection ~ 3300 4300
 Wire Wire Line
 	3100 4300 3300 4300
+Wire Wire Line
+	2275 4300 2600 4300
+Wire Wire Line
+	7250 850  8250 850 
+Wire Wire Line
+	5250 2400 5250 2700
+$Comp
+L pspice:DIODE D1
+U 1 1 5A682A3B
+P 5250 3050
+F 0 "D1" V 5204 3178 50  0000 L CNN
+F 1 "DIODE" V 5295 3178 50  0000 L CNN
+F 2 "" H 5250 3050 50  0001 C CNN
+F 3 "" H 5250 3050 50  0001 C CNN
+F 4 "X" H 5250 3050 60  0001 C CNN "Spice_Primitive"
+F 5 "1N4148" H 5250 3050 60  0001 C CNN "Spice_Model"
+F 6 "Y" H 5250 3050 60  0001 C CNN "Spice_Netlist_Enabled"
+F 7 "spice_components.lib" H 5250 3050 60  0001 C CNN "Spice_Lib_File"
+F 8 "2 1" H 5250 3050 60  0001 C CNN "Spice_Node_Sequence"
+	1    5250 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L pspice:DIODE D2
+U 1 1 5A682AE7
+P 5250 3625
+F 0 "D2" V 5204 3753 50  0000 L CNN
+F 1 "DIODE" V 5295 3753 50  0000 L CNN
+F 2 "" H 5250 3625 50  0001 C CNN
+F 3 "" H 5250 3625 50  0001 C CNN
+F 4 "X" H 5250 3625 60  0001 C CNN "Spice_Primitive"
+F 5 "1N4148" H 5250 3625 60  0001 C CNN "Spice_Model"
+F 6 "Y" H 5250 3625 60  0001 C CNN "Spice_Netlist_Enabled"
+F 7 "spice_components.lib" H 5250 3625 60  0001 C CNN "Spice_Lib_File"
+F 8 "2 1" H 5250 3625 60  0001 C CNN "Spice_Node_Sequence"
+	1    5250 3625
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5250 2850 5250 2700
+Connection ~ 5250 2700
+Wire Wire Line
+	5250 3825 5250 4200
+Wire Wire Line
+	5250 4200 6025 4200
+Wire Wire Line
+	5250 3250 5250 3425
+Connection ~ 5250 4200
+Wire Wire Line
+	9275 4200 9275 4250
+$Comp
+L pspice:R R7
+U 1 1 5A68AF3A
+P 10150 4575
+F 0 "R7" H 10218 4621 50  0000 L CNN
+F 1 "25" H 10218 4530 50  0000 L CNN
+F 2 "" H 10150 4575 50  0001 C CNN
+F 3 "" H 10150 4575 50  0001 C CNN
+F 4 "R" H 10150 4575 60  0001 C CNN "Spice_Primitive"
+F 5 "10k" H 10150 4575 60  0001 C CNN "Spice_Model"
+F 6 "Y" H 10150 4575 60  0001 C CNN "Spice_Netlist_Enabled"
+	1    10150 4575
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10150 4325 10150 4250
+Wire Wire Line
+	10150 4250 9275 4250
+Wire Wire Line
+	9275 3400 9275 3700
+Wire Wire Line
+	9275 4825 9275 4975
+Connection ~ 9275 4250
+Wire Wire Line
+	9275 4250 9275 4325
+Wire Wire Line
+	10150 4825 10150 4975
+Wire Wire Line
+	10150 4975 9275 4975
+Connection ~ 9275 4975
+Wire Wire Line
+	9275 4975 9275 5175
+Wire Wire Line
+	6475 2000 6475 2350
 Wire Wire Line
 	8550 3400 9275 3400
 Wire Wire Line
 	7750 3400 8050 3400
 Wire Wire Line
-	2275 4300 2600 4300
-Wire Wire Line
 	975  4300 1775 4300
 Wire Wire Line
-	7250 850  8250 850 
+	4125 4200 5250 4200
 $EndSCHEMATC
