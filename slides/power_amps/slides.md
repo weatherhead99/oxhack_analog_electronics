@@ -43,3 +43,37 @@
 ----
 
 ## Class A amplifier
+
+<img src="class_A.svg" width=550 style="background-color:white">
+
+
+----
+
+## Class B amplifier
+
+<img src="class_B.svg" width=550 style="background-color:white">
+
+
+----
+
+## Class AB amplifier 
+
+<img src="class_AB.svg" width=500 style="background-color:white">
+
+
+
+---
+
+
+
+### Practical
+
+1) Measure Vt of your transistors and Vf of your diodes
+
+2) Build the "output stage" part of the schematic and carefully set the trimming resistors using ammeter to bias the transistors
+
+3) check that the output stage correctly passes an AC sine wave (with distortion)
+
+4) Add the op-amp first stage and see that the feedback decreases distortion!
+
+5) play some music through a speaker or headphones
