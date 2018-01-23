@@ -378,10 +378,10 @@ $EndComp
 NoConn ~ 4550 4050
 NoConn ~ 4450 4050
 $Comp
-L pspice:R R?
+L pspice:R R6
 U 1 1 5A6ACD9F
 P 6050 1450
-F 0 "R?" H 5982 1404 50  0000 R CNN
+F 0 "R6" H 5982 1404 50  0000 R CNN
 F 1 "4.7k" H 5982 1495 50  0000 R CNN
 F 2 "" H 6050 1450 50  0001 C CNN
 F 3 "" H 6050 1450 50  0001 C CNN
@@ -1873,10 +1873,10 @@ values in this schematic assume \n25ohm static impedance of LS1\n(e.g. normal he
 Text Notes 4025 1550 0    60   ~ 0
 NOTE: R5 sets Q1 & Q2 bias.\n(use a 10k pot)\nAdjust to achieve optimal distortion and\ncurrent use
 $Comp
-L Device:Amperemeter_AC MES?
+L Device:Amperemeter_AC MES1
 U 1 1 5A6B3AE8
 P 6925 1375
-F 0 "MES?" H 7078 1421 50  0000 L CNN
+F 0 "MES1" H 7078 1421 50  0000 L CNN
 F 1 "Ammeter_AC" H 7078 1330 50  0000 L CNN
 F 2 "" V 6925 1475 50  0001 C CNN
 F 3 "~" V 6925 1475 50  0001 C CNN
