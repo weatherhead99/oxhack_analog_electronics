@@ -50,23 +50,23 @@ $EndComp
 $Comp
 L Diode:1N4148 D1
 U 1 1 5A699E2E
-P 6025 2450
-F 0 "D1" V 6071 2371 50  0000 R CNN
-F 1 "1N4148" V 5980 2371 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_Horizontal_RM10" H 6025 2275 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6025 2450 50  0001 C CNN
-	1    6025 2450
+P 6025 2425
+F 0 "D1" V 6071 2346 50  0000 R CNN
+F 1 "1N4148" V 5980 2346 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_Horizontal_RM10" H 6025 2250 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6025 2425 50  0001 C CNN
+	1    6025 2425
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148 D2
 U 1 1 5A699EAA
-P 6025 3025
-F 0 "D2" V 6071 2946 50  0000 R CNN
-F 1 "1N4148" V 5980 2946 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_Horizontal_RM10" H 6025 2850 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6025 3025 50  0001 C CNN
-	1    6025 3025
+P 6025 3100
+F 0 "D2" V 6071 3021 50  0000 R CNN
+F 1 "1N4148" V 5980 3021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_Horizontal_RM10" H 6025 2925 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6025 3100 50  0001 C CNN
+	1    6025 3100
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -83,11 +83,11 @@ $EndComp
 Wire Wire Line
 	6600 2150 6025 2150
 Wire Wire Line
-	6025 2150 6025 2300
+	6025 2150 6025 2275
 Wire Wire Line
-	6025 2600 6025 2875
+	6025 2575 6025 2950
 Wire Wire Line
-	6025 3175 6025 3475
+	6025 3250 6025 3475
 Wire Wire Line
 	6025 3475 6600 3475
 Wire Wire Line
@@ -179,11 +179,11 @@ Connection ~ 6900 2950
 Wire Wire Line
 	6900 2950 6900 3275
 Wire Wire Line
-	5600 4250 3400 4250
+	5600 4250 3875 4250
 Wire Wire Line
-	3400 4250 3400 3575
+	3875 4250 3875 3575
 Wire Wire Line
-	3400 3575 4125 3575
+	3875 3575 4125 3575
 $Comp
 L power:GNDA #PWR04
 U 1 1 5A69B492
@@ -229,34 +229,29 @@ Connection ~ 4325 2525
 $Comp
 L Device:C C1
 U 1 1 5A69F95D
-P 2025 3575
-F 0 "C1" H 2140 3621 50  0000 L CNN
-F 1 "2.2uF" H 2140 3530 50  0000 L CNN
-F 2 "" H 2063 3425 50  0001 C CNN
-F 3 "" H 2025 3575 50  0001 C CNN
-	1    2025 3575
+P 1825 3575
+F 0 "C1" V 1573 3575 50  0000 C CNN
+F 1 "2.2uF" V 1664 3575 50  0000 C CNN
+F 2 "" H 1863 3425 50  0001 C CNN
+F 3 "" H 1825 3575 50  0001 C CNN
+	1    1825 3575
 	0    1    1    0   
 $EndComp
 $Comp
 L pspice:R R3
 U 1 1 5A69FB28
-P 2800 3575
-F 0 "R3" V 2595 3575 50  0000 C CNN
-F 1 "10k" V 2686 3575 50  0000 C CNN
-F 2 "" H 2800 3575 50  0001 C CNN
-F 3 "" H 2800 3575 50  0001 C CNN
-	1    2800 3575
+P 3250 3575
+F 0 "R3" V 3045 3575 50  0000 C CNN
+F 1 "10k" V 3136 3575 50  0000 C CNN
+F 2 "" H 3250 3575 50  0001 C CNN
+F 3 "" H 3250 3575 50  0001 C CNN
+	1    3250 3575
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3050 3575 3400 3575
-Connection ~ 3400 3575
-Wire Wire Line
-	2550 3575 2175 3575
-Text GLabel 1225 3575 0    60   Input ~ 0
+	3000 3575 1975 3575
+Text GLabel 1300 3575 0    60   Input ~ 0
 audio_input
-Wire Wire Line
-	1225 3575 1875 3575
 $Comp
 L pspice:R R1
 U 1 1 5A6A14E3
@@ -308,11 +303,11 @@ Wire Wire Line
 Wire Wire Line
 	2225 2175 2225 2250
 Wire Wire Line
-	4125 3375 3400 3375
+	4125 3375 3875 3375
 Wire Wire Line
-	3400 3375 3400 2250
+	3875 3375 3875 2250
 Wire Wire Line
-	3400 2250 2225 2250
+	3875 2250 2225 2250
 Connection ~ 2225 2250
 Wire Wire Line
 	2225 2250 2225 2325
@@ -1853,7 +1848,7 @@ Wire Wire Line
 	6025 925  6025 775 
 Wire Wire Line
 	6900 775  6900 1125
-Text Notes 7025 1475 0    60   ~ 0
+Text Notes 7025 1675 0    60   ~ 0
 NOTE: measure AC and DC bias \ncurrent here
 Text Notes 5400 4600 0    60   ~ 0
 NOTE: volume control\n(use a 10k pot)
@@ -1872,4 +1867,27 @@ Wire Wire Line
 	4325 2525 4325 3175
 Wire Wire Line
 	4325 3775 4325 3950
+Text Notes 8550 2650 0    60   ~ 0
+NOTE: the use of a polarised cap for C4 is fine,\neven though the low side may go below ground,\nsince one side is DC biased higher than the other
+Text Label 6225 3475 0    60   ~ 0
+P_BASE
+Text Label 6225 2150 0    60   ~ 0
+N_BASE
+Text Label 7225 2525 0    60   ~ 0
+OUTPUT_DRIVE
+Text Label 8350 4025 0    60   ~ 0
+OUTPUT
+Text Label 2500 2250 0    60   ~ 0
+DRIVE_SETPOINT
+Text Label 4800 4250 0    60   ~ 0
+BIAS_FB
+Connection ~ 3875 3575
+Wire Wire Line
+	3500 3575 3875 3575
+Text Label 2150 3575 0    60   ~ 0
+IP_NO_DC_BIAS
+Text Label 6025 2900 1    60   ~ 0
+D_MID
+Wire Wire Line
+	1300 3575 1675 3575
 $EndSCHEMATC
