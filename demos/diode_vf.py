@@ -108,3 +108,4 @@ ax[2].legend(title="Is (A)")
 ax[2].set_title("$I_s = 1\\times10^{-12} A, T=298 K$")
 
 
+plt.show(block=True)
