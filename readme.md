@@ -1,5 +1,8 @@
-Oxhack Analog Electronics
+Intro to Analog Electronics
 ========================
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/weatherhead99/oxhack_analog_electronics/master)
 
 This repository contains the slides, schematics and demos which are used in the analog electronics workshops held at Oxhack. For the events, see the Oxhack [meetup page](https://www.meetup.com/Oxford-Hackspace).
 
