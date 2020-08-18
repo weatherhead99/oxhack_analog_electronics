@@ -9,12 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="793.70081"
+   height="1122.5197"
    id="svg3135"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="cheat_sheet_2.svg">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="cheat_sheet_2.svg"
+   viewBox="0 0 744.09448 1052.3622">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="455.96405"
-     inkscape:cy="598.46269"
+     inkscape:cx="217.39262"
+     inkscape:cy="541.31984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
-     inkscape:window-x="1345"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <defs
      id="defs3137" />
@@ -53,15 +54,15 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="54.309006"
        y="64.145805"
-       id="text3069"
-       sodipodi:linespacing="125%"><tspan
+       id="text3069"><tspan
          sodipodi:role="line"
          id="tspan3071"
          x="54.309006"
-         y="64.145805">Oxhack Analog Electronics Cheat Sheet 2 - basic electronics</tspan></text>
+         y="64.145805"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">Analog Electronics Cheat Sheet 2 - basic electronics</tspan></text>
     <rect
        style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect3073"
@@ -71,27 +72,29 @@
        y="83.790756" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="42.037727"
        y="107.54395"
-       id="text3100"
-       sodipodi:linespacing="125%"><tspan
+       id="text3100"><tspan
          sodipodi:role="line"
          id="tspan3102"
          x="42.037727"
          y="107.54395"
-         style="font-size:18px;font-weight:bold">Voltage &amp; Current</tspan></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif">Voltage &amp; Current</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3223"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:22px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion3225"><rect
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3225"
+         style="font-family:sans-serif"><rect
            id="rect3227"
            width="81.428574"
            height="55.714287"
            x="335.71429"
-           y="288.07648" /></flowRegion><flowPara
-         id="flowPara3229" /></flowRoot>    <rect
+           y="288.07648"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3229"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <rect
        style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect3073-2"
        width="680"
@@ -100,16 +103,15 @@
        y="555.21936" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="30.609156"
        y="578.97253"
-       id="text3100-9"
-       sodipodi:linespacing="125%"><tspan
+       id="text3100-9"><tspan
          sodipodi:role="line"
          id="tspan3102-1"
          x="30.609156"
          y="578.97253"
-         style="font-size:18px;font-weight:bold">Kirchoff's Laws</tspan></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif">Kirchoff's Laws</tspan></text>
     <rect
        style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect3073-7"
@@ -119,16 +121,15 @@
        y="268.93359" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="39.180588"
        y="294.6868"
-       id="text3100-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text3100-0"><tspan
          sodipodi:role="line"
          id="tspan3102-9"
          x="39.180588"
          y="294.6868"
-         style="font-size:18px;font-weight:bold">Resistors</tspan></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif">Resistors</tspan></text>
     <rect
        style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect3073-7-6"
@@ -138,16 +139,15 @@
        y="268.8241" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="399.1109"
        y="292.5773"
-       id="text3100-0-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text3100-0-0"><tspan
          sodipodi:role="line"
          id="tspan3102-9-6"
          x="399.1109"
          y="292.5773"
-         style="font-size:18px;font-weight:bold">Capacitors</tspan></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif">Capacitors</tspan></text>
     <g
        transform="matrix(1.25,0,0,-1.25,587.09426,722.43047)"
        inkscape:label="diagrams"
@@ -161,8 +161,8 @@
              id="g12590">
             <path
                id="path12592"
-               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-               d="m 0,0 28.3468,0 m 0,0 28.34682,0 M 0,0 56.69362,0 m 0,0 0,-28.3468 m 0,0 0,-28.34682 m 0,56.69362 0,-56.69362"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 0,0 h 28.3468 m 0,0 H 56.69362 M 0,0 h 56.69362 m 0,0 v -28.3468 m 0,0 v -28.34682 m 0,56.69362 v -56.69362"
                inkscape:connector-curvature="0" />
             <g
                id="g12594" />
@@ -171,12 +171,12 @@
             <g
                id="g12598">
               <g
-                 transform="translate(28.347,0)"
+                 transform="translate(28.347)"
                  id="g12600">
                 <g
                    id="g12602" />
                 <g
-                   transform="translate(-28.347,0)"
+                   transform="translate(-28.347)"
                    id="g12604" />
               </g>
             </g>
@@ -193,7 +193,7 @@
                    id="g12614">
                   <path
                      id="path12616"
-                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                      d="M 1.58714,0 C 1.58714,0.87656 0.87656,1.58714 0,1.58714 -0.87656,1.58714 -1.58714,0.87656 -1.58714,0 c 0,-0.87656 0.71058,-1.58714 1.58714,-1.58714 0.87656,0 1.58714,0.71058 1.58714,1.58714 z"
                      inkscape:connector-curvature="0" />
                 </g>
@@ -202,12 +202,12 @@
             <g
                id="g12618">
               <g
-                 transform="translate(56.693,0)"
+                 transform="translate(56.693)"
                  id="g12620">
                 <g
                    id="g12622" />
                 <g
-                   transform="translate(-56.693,0)"
+                   transform="translate(-56.693)"
                    id="g12624" />
               </g>
               <g
@@ -216,7 +216,7 @@
                    id="g12628">
                   <path
                      id="path12630"
-                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                      d="m 58.28076,0 c 0,0.87656 -0.71058,1.58714 -1.58714,1.58714 -0.87657,0 -1.58716,-0.71058 -1.58716,-1.58714 0,-0.87656 0.71059,-1.58714 1.58716,-1.58714 0.87656,0 1.58714,0.71058 1.58714,1.58714 z"
                      inkscape:connector-curvature="0" />
                 </g>
@@ -225,12 +225,12 @@
             <g
                id="g12632">
               <g
-                 transform="translate(28.347,0)"
+                 transform="translate(28.347)"
                  id="g12634">
                 <g
                    id="g12636" />
                 <g
-                   transform="translate(-28.347,0)"
+                   transform="translate(-28.347)"
                    id="g12638" />
               </g>
               <g
@@ -239,8 +239,8 @@
                    id="g12642">
                   <path
                      id="path12644"
-                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-                     d="m 26.61058,0 0,-1.98425 L 30.82713,0 26.61058,1.98425 26.61058,0"
+                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     d="M 26.61058,0 V -1.98425 L 30.82713,0 26.61058,1.98425 V 0"
                      inkscape:connector-curvature="0" />
                 </g>
               </g>
@@ -257,21 +257,23 @@
                      id="g12652">
                     <text
                        id="text12654"
-                       transform="matrix(1,0,0,-1,29.503,63.493)">
+                       transform="matrix(1,0,0,-1,29.503,63.493)"
+                       style="line-height:0%">
                       <tspan
                          id="tspan12656"
                          y="0"
                          x="0"
-                         style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10">i</tspan>
+                         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">i</tspan>
                     </text>
                     <text
                        id="text12658"
-                       transform="matrix(1,0,0,-1,32.935,61.999)">
+                       transform="matrix(1,0,0,-1,32.935,61.999)"
+                       style="line-height:0%">
                       <tspan
                          id="tspan12660"
                          y="0"
                          x="0"
-                         style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7">1</tspan>
+                         style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">1</tspan>
                     </text>
                     <g
                        transform="translate(29.503,63.493)"
@@ -290,7 +292,7 @@
             <g
                id="g12670">
               <g
-                 transform="matrix(0,-1,1,0,56.693,-28.346)"
+                 transform="rotate(-90,14.1735,-42.5195)"
                  id="g12672">
                 <g
                    id="g12674" />
@@ -316,7 +318,7 @@
                    id="g12688">
                   <path
                      id="path12690"
-                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                      d="m 58.28076,-56.69362 c 0,0.87657 -0.71058,1.58716 -1.58714,1.58716 -0.87657,0 -1.58716,-0.71059 -1.58716,-1.58716 0,-0.87656 0.71059,-1.58714 1.58716,-1.58714 0.87656,0 1.58714,0.71058 1.58714,1.58714 z"
                      inkscape:connector-curvature="0" />
                 </g>
@@ -325,7 +327,7 @@
             <g
                id="g12692">
               <g
-                 transform="matrix(0,-1,1,0,56.693,-28.346)"
+                 transform="rotate(-90,14.1735,-42.5195)"
                  id="g12694">
                 <g
                    id="g12696" />
@@ -339,8 +341,8 @@
                    id="g12702">
                   <path
                      id="path12704"
-                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-                     d="m 56.69362,-26.61058 -1.98425,0 1.98425,-4.21655 1.98425,4.21655 -1.98425,0"
+                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     d="m 56.69362,-26.61058 h -1.98425 l 1.98425,-4.21655 1.98425,4.21655 h -1.98425"
                      inkscape:connector-curvature="0" />
                 </g>
               </g>
@@ -357,21 +359,23 @@
                      id="g12712">
                     <text
                        id="text12714"
-                       transform="matrix(1,0,0,-1,65.32,27.595)">
+                       transform="matrix(1,0,0,-1,65.32,27.595)"
+                       style="line-height:0%">
                       <tspan
                          id="tspan12716"
                          y="0"
                          x="0"
-                         style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10">i</tspan>
+                         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">i</tspan>
                     </text>
                     <text
                        id="text12718"
-                       transform="matrix(1,0,0,-1,68.752,26.1)">
+                       transform="matrix(1,0,0,-1,68.752,26.1)"
+                       style="line-height:0%">
                       <tspan
                          id="tspan12720"
                          y="0"
                          x="0"
-                         style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7">2</tspan>
+                         style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">2</tspan>
                     </text>
                     <g
                        transform="translate(65.32,27.595)"
@@ -385,8 +389,8 @@
             </g>
             <path
                id="path12726"
-               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-               d="m 56.69362,0 0,28.3468 m 0,0 0,28.34682 m 0,-56.69362 0,56.69362"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 56.69362,0 v 28.3468 m 0,0 V 56.69362 M 56.69362,0 v 56.69362"
                inkscape:connector-curvature="0" />
             <g
                id="g12728" />
@@ -395,7 +399,7 @@
             <g
                id="g12732">
               <g
-                 transform="matrix(0,1,-1,0,56.693,28.347)"
+                 transform="rotate(90,14.173,42.52)"
                  id="g12734">
                 <g
                    id="g12736" />
@@ -421,7 +425,7 @@
                    id="g12750">
                   <path
                      id="path12752"
-                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                      d="m 58.28076,56.69362 c 0,0.87656 -0.71058,1.58714 -1.58714,1.58714 -0.87657,0 -1.58716,-0.71058 -1.58716,-1.58714 0,-0.87657 0.71059,-1.58716 1.58716,-1.58716 0.87656,0 1.58714,0.71059 1.58714,1.58716 z"
                      inkscape:connector-curvature="0" />
                 </g>
@@ -430,7 +434,7 @@
             <g
                id="g12754">
               <g
-                 transform="matrix(0,1,-1,0,56.693,28.347)"
+                 transform="rotate(90,14.173,42.52)"
                  id="g12756">
                 <g
                    id="g12758" />
@@ -444,8 +448,8 @@
                    id="g12764">
                   <path
                      id="path12766"
-                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-                     d="m 56.69362,26.61058 1.98425,0 -1.98425,4.21655 -1.98425,-4.21655 1.98425,0"
+                     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     d="m 56.69362,26.61058 h 1.98425 l -1.98425,4.21655 -1.98425,-4.21655 h 1.98425"
                      inkscape:connector-curvature="0" />
                 </g>
               </g>
@@ -462,21 +466,23 @@
                      id="g12774">
                     <text
                        id="text12776"
-                       transform="matrix(1,0,0,-1,50.379,84.288)">
+                       transform="matrix(1,0,0,-1,50.379,84.288)"
+                       style="line-height:0%">
                       <tspan
                          id="tspan12778"
                          y="0"
                          x="0"
-                         style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10">i</tspan>
+                         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">i</tspan>
                     </text>
                     <text
                        id="text12780"
-                       transform="matrix(1,0,0,-1,53.811,82.793)">
+                       transform="matrix(1,0,0,-1,53.811,82.793)"
+                       style="line-height:0%">
                       <tspan
                          id="tspan12782"
                          y="0"
                          x="0"
-                         style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7">3</tspan>
+                         style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">3</tspan>
                     </text>
                     <g
                        transform="translate(50.379,84.288)"
@@ -499,8 +505,8 @@
          id="g14119">
         <path
            inkscape:connector-curvature="0"
-           d="m 0,0 0,58.96129 m 0,23.81143 0,58.96132 m 0,0 28.3468,-2e-5 m 0,0 28.34682,2e-5 m 0,0 0,-12.47263 m 0,-31.74839 0,-12.4726 m 0,0 0,-26.64602 m 0,-31.74839 0,-26.64601 m 0,0 -28.34682,0 m 0,0 L 0,0"
-           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 0,0 v 58.96129 m 0,23.81143 v 58.96132 m 0,0 28.3468,-2e-5 m 0,0 28.34682,2e-5 m 0,0 v -12.47263 m 0,-31.74839 v -12.4726 m 0,0 V 58.3944 m 0,-31.74839 V 0 m 0,0 H 28.3468 m 0,0 H 0"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="path14121" />
         <g
            id="g14123" />
@@ -510,15 +516,16 @@
            id="g14127">
           <g
              id="g14129"
-             transform="matrix(-1,0,0,-1,3.874,78.37)">
+             transform="rotate(180,1.937,39.185)">
             <g
                id="g14131"
                transform="translate(-176.49,-414.001)">
               <text
                  transform="matrix(1,0,0,-1,176.49,414.001)"
-                 id="text14133">
+                 id="text14133"
+                 style="line-height:0%">
                 <tspan
-                   style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10"
+                   style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="0"
                    y="0"
                    id="tspan14135">+</tspan>
@@ -533,15 +540,16 @@
           </g>
           <g
              id="g14141"
-             transform="matrix(-1,0,0,-1,3.874,68.344)">
+             transform="rotate(180,1.937,34.172)">
             <g
                id="g14143"
                transform="translate(-176.49,-403.975)">
               <text
                  transform="matrix(1,0,0,-1,176.49,403.975)"
-                 id="text14145">
+                 id="text14145"
+                 style="line-height:0%">
                 <tspan
-                   style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
+                   style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="0"
                    y="0"
                    id="tspan14147">−</tspan>
@@ -557,11 +565,11 @@
           <path
              inkscape:connector-curvature="0"
              d="m -11.90572,70.867 c 0,-6.5754 5.33031,-11.90571 11.90572,-11.90571 6.57541,0 11.90572,5.33031 11.90572,11.90571 0,6.57543 -5.33031,11.90572 -11.90572,11.90572 -6.57541,0 -11.90572,-5.33029 -11.90572,-11.90572 z"
-             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path14153" />
           <g
              id="g14155"
-             transform="matrix(0,1,-1,0,0,70.866)">
+             transform="rotate(90,-35.433,35.433)">
             <g
                id="g14157" />
             <g
@@ -591,18 +599,20 @@
                  transform="translate(-148.712,-405.1)">
                 <text
                    transform="matrix(1,0,0,-1,148.712,405.1)"
-                   id="text14179">
+                   id="text14179"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+                     style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14181">v</tspan>
                 </text>
                 <text
                    transform="matrix(1,0,0,-1,153.541,403.606)"
-                   id="text14183">
+                   id="text14183"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+                     style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14185">1</tspan>
@@ -646,11 +656,11 @@
           <path
              inkscape:connector-curvature="0"
              d="m 56.69362,129.65991 5.95285,-3.07741 -11.90572,-5.35781 11.90572,-5.35782 -11.90572,-5.35781 11.90572,-5.35781 -11.90572,-5.35782 5.95287,-2.67891"
-             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path14213" />
           <g
              id="g14215"
-             transform="matrix(0,-1,1,0,56.693,113.386)">
+             transform="rotate(-90,85.0395,28.3465)">
             <g
                id="g14217" />
             <g
@@ -686,9 +696,10 @@
                  transform="translate(-232.683,-469.384)">
                 <text
                    transform="matrix(1,0,0,-1,232.683,469.384)"
-                   id="text14245">
+                   id="text14245"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+                     style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14247">+</tspan>
@@ -715,9 +726,10 @@
                  transform="translate(-232.683,-424.416)">
                 <text
                    transform="matrix(1,0,0,-1,232.683,424.416)"
-                   id="text14261">
+                   id="text14261"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
+                     style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14263">−</tspan>
@@ -746,18 +758,20 @@
                  transform="translate(-236.711,-447.62)">
                 <text
                    transform="matrix(1,0,0,-1,236.711,447.62)"
-                   id="text14279">
+                   id="text14279"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+                     style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14281">v</tspan>
                 </text>
                 <text
                    transform="matrix(1,0,0,-1,241.54,446.125)"
-                   id="text14283">
+                   id="text14283"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+                     style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14285">2</tspan>
@@ -781,11 +795,11 @@
           <path
              inkscape:connector-curvature="0"
              d="M 56.69362,58.7929 62.64647,55.71548 50.74075,50.35767 62.64647,44.99986 50.74075,39.64204 62.64647,34.28423 50.74075,28.9264 56.69362,26.2475"
-             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path14297" />
           <g
              id="g14299"
-             transform="matrix(0,-1,1,0,56.693,42.52)">
+             transform="rotate(-90,49.6065,-7.0865)">
             <g
                id="g14301" />
             <g
@@ -821,9 +835,10 @@
                  transform="translate(-232.683,-405.604)">
                 <text
                    transform="matrix(1,0,0,-1,232.683,405.604)"
-                   id="text14329">
+                   id="text14329"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+                     style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14331">+</tspan>
@@ -850,9 +865,10 @@
                  transform="translate(-232.683,-346.464)">
                 <text
                    transform="matrix(1,0,0,-1,232.683,346.464)"
-                   id="text14345">
+                   id="text14345"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
+                     style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14347">−</tspan>
@@ -881,18 +897,20 @@
                  transform="translate(-236.711,-376.753)">
                 <text
                    transform="matrix(1,0,0,-1,236.711,376.753)"
-                   id="text14363">
+                   id="text14363"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+                     style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14365">v</tspan>
                 </text>
                 <text
                    transform="matrix(1,0,0,-1,241.54,375.259)"
-                   id="text14367">
+                   id="text14367"
+                   style="line-height:0%">
                   <tspan
-                     style="font-size:6.97380018px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+                     style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="0"
                      y="0"
                      id="tspan14369">3</tspan>
@@ -915,12 +933,12 @@
            id="g14379">
           <g
              id="g14381"
-             transform="matrix(-1,0,0,-1,28.346,0)">
+             transform="rotate(180,14.173,0)">
             <g
                id="g14383" />
             <g
                id="g14385"
-               transform="translate(-28.346,0)" />
+               transform="translate(-28.346)" />
           </g>
         </g>
         <g
@@ -933,7 +951,7 @@
        transform="matrix(2.9045287,0,0,2.9045287,-1134.2112,-404.8519)"
        id="g17380">
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="346.84869"
          x="525.32379"
          id="text14045">
@@ -941,10 +959,10 @@
            id="tspan14047"
            y="346.84869"
            x="525.32379"
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10">i</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">i</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="348.71744"
          x="529.61377"
          id="text14049">
@@ -952,10 +970,10 @@
            id="tspan14051"
            y="348.71744"
            x="529.61377"
-           style="font-size:8.71724987px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7">1</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:8.71724987px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">1</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="346.84869"
          x="538.66003"
          id="text14053">
@@ -963,10 +981,10 @@
            id="tspan14055"
            y="346.84869"
            x="538.66003"
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10">=</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">=</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="346.84869"
          x="551.80499"
          id="text14057">
@@ -974,10 +992,10 @@
            id="tspan14059"
            y="346.84869"
            x="551.80499"
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10">i</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">i</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="348.71744"
          x="556.09503"
          id="text14061">
@@ -985,10 +1003,10 @@
            id="tspan14063"
            y="348.71744"
            x="556.09503"
-           style="font-size:8.71724987px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7">2</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:8.71724987px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">2</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="346.84869"
          x="564.44879"
          id="text14065">
@@ -996,10 +1014,10 @@
            id="tspan14067"
            y="346.84869"
            x="564.44879"
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10">+</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">+</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="346.84869"
          x="576.90253"
          id="text14069">
@@ -1007,10 +1025,10 @@
            id="tspan14071"
            y="346.84869"
            x="576.90253"
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10">i</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">i</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="348.71744"
          x="581.1925"
          id="text14073">
@@ -1018,96 +1036,96 @@
            id="tspan14075"
            y="348.71744"
            x="581.1925"
-           style="font-size:8.71724987px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7">3</tspan>
+           style="font-variant:normal;font-weight:normal;font-size:8.71724987px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">3</tspan>
       </text>
     </g>
     <g
        transform="matrix(2.7240944,0,0,2.7240944,-1041.0676,-907.01538)"
        id="g17530">
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="636.2124"
          x="522.19873"
          id="text14393">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="522.19873"
            y="636.2124"
            id="tspan14395">v</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="638.08118"
          x="528.23492"
          id="text14397">
         <tspan
-           style="font-size:8.71724987px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+           style="font-variant:normal;font-weight:normal;font-size:8.71724987px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="528.23492"
            y="638.08118"
            id="tspan14399">1</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="636.2124"
          x="537.28119"
          id="text14401">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="537.28119"
            y="636.2124"
            id="tspan14403">=</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="636.2124"
          x="550.42621"
          id="text14405">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="550.42621"
            y="636.2124"
            id="tspan14407">v</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="638.08118"
          x="556.46246"
          id="text14409">
         <tspan
-           style="font-size:8.71724987px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+           style="font-variant:normal;font-weight:normal;font-size:8.71724987px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="556.46246"
            y="638.08118"
            id="tspan14411">2</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="636.2124"
          x="564.81744"
          id="text14413">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="564.81744"
            y="636.2124"
            id="tspan14415">+</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="636.2124"
          x="577.26996"
          id="text14417">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="577.26996"
            y="636.2124"
            id="tspan14419">v</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="638.08118"
          x="583.30621"
          id="text14421">
         <tspan
-           style="font-size:8.71724987px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR7;-inkscape-font-specification:CMR7"
+           style="font-variant:normal;font-weight:normal;font-size:8.71724987px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="583.30621"
            y="638.08118"
            id="tspan14423">3</tspan>
@@ -1120,8 +1138,8 @@
          id="g14429">
         <path
            inkscape:connector-curvature="0"
-           d="M 0,0 12.47261,0 M 44.221,0 56.69362,0"
-           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 H 12.47261 M 44.221,0 h 12.47262"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="path14431" />
         <g
            id="g14433" />
@@ -1132,16 +1150,16 @@
           <path
              inkscape:connector-curvature="0"
              d="m 12.0741,0 3.07742,5.95285 5.35782,-11.9057 5.3578,11.9057 5.35782,-11.9057 5.35782,11.9057 L 41.9406,-5.95285 44.6195,0"
-             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path14439" />
           <g
              id="g14441"
-             transform="translate(28.346,0)">
+             transform="translate(28.346)">
             <g
                id="g14443" />
             <g
                id="g14445"
-               transform="translate(-28.346,0)" />
+               transform="translate(-28.346)" />
           </g>
         </g>
         <g
@@ -1157,8 +1175,8 @@
          id="g14477">
         <path
            inkscape:connector-curvature="0"
-           d="m 0,0 24.37833,0 m 7.93695,0 24.37834,0"
-           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 0,0 h 24.37833 m 7.93695,0 h 24.37834"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="path14479" />
         <g
            id="g14481" />
@@ -1168,17 +1186,17 @@
            id="g14485">
           <path
              inkscape:connector-curvature="0"
-             d="m 24.37833,11.90572 0,-23.81144 m 7.93695,23.81144 0,-23.81144"
-             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+             d="m 24.37833,11.90572 v -23.81144 m 7.93695,23.81144 v -23.81144"
+             style="fill:none;stroke:#000000;stroke-width:0.79699999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
              id="path14487" />
           <g
              id="g14489"
-             transform="translate(28.346,0)">
+             transform="translate(28.346)">
             <g
                id="g14491" />
             <g
                id="g14493"
-               transform="translate(-28.346,0)" />
+               transform="translate(-28.346)" />
           </g>
         </g>
         <g
@@ -1191,56 +1209,56 @@
        transform="matrix(2.1201967,0,0,2.1201967,-714.16831,-1286.9401)"
        id="g17898">
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="762.96741"
          x="524.79993"
          id="text14501">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="524.79993"
            y="762.96741"
            id="tspan14503">Q</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="762.96741"
          x="538.1037"
          id="text14505">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="538.1037"
            y="762.96741"
            id="tspan14507">=</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="762.96741"
          x="551.24872"
          id="text14509">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="551.24872"
            y="762.96741"
            id="tspan14511">C</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="762.96741"
          x="563.80743"
          id="text14513">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="563.80743"
            y="762.96741"
            id="tspan14515">×</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="762.96741"
          x="576.26123"
          id="text14517">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="576.26123"
            y="762.96741"
            id="tspan14519">V</tspan>
@@ -1264,18 +1282,18 @@
                id="g14091">
               <path
                  id="path14093"
-                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-                 d="M 0,0 0,-9.92134"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -9.92134"
                  inkscape:connector-curvature="0" />
               <path
                  id="path14095"
-                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-                 d="m -9.92134,-9.92134 19.84268,0"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M -9.92134,-9.92134 H 9.92134"
                  inkscape:connector-curvature="0" />
               <path
                  id="path14097"
-                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-                 d="m -7.93709,-11.90558 15.87418,0 m -13.88994,-1.98424 11.9057,0 m -9.92133,-1.98437 7.93696,0"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M -7.93709,-11.90558 H 7.93709 m -13.88994,-1.98424 h 11.9057 m -9.92133,-1.98437 h 7.93696"
                  inkscape:connector-curvature="0" />
             </g>
           </g>
@@ -1292,13 +1310,14 @@
                  id="g14105">
                 <text
                    id="text14107"
-                   transform="matrix(1,0,0,-1,152.033,498.152)">
+                   transform="matrix(1,0,0,-1,152.033,498.152)"
+                   style="line-height:0%">
                   <tspan
                      id="tspan14109"
                      sodipodi:role="line"
                      y="0"
                      x="0 7.8176522 15.289602"
-                     style="font-size:9.96259975px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10">GND</tspan>
+                     style="font-variant:normal;font-weight:normal;font-size:9.96259975px;line-height:1.25;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">GND</tspan>
                 </text>
                 <g
                    transform="translate(152.033,498.152)"
@@ -1316,7 +1335,7 @@
        transform="matrix(0.51145405,0,0,0.51145405,-88.092286,-93.345931)"
        id="g17859">
       <g
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="content"
          transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
          xml:space="preserve"
@@ -1330,30 +1349,30 @@
          word-spacing="normal"><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
-           d="m 1174,363.07 0,0.16 0.1,0.16 0,0.15 0.1,0.14 0,0.14 0,0.13 0.1,0.12 0,0.11 0.1,0.11 0.1,0.11 0,0.09 0.1,0.09 0.1,0.09 0.1,0.08 0,0.07 0.2,0.07 0.1,0.06 0.1,0.06 0.1,0.05 0.2,0.05 0.1,0.04 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.01 0.1,0.02 0.1,0.01 0.1,0.01 0.2,0.01 0.1,0.02 0.1,0 0.1,0.01 0.2,0.01 0.1,0.01 0.2,0 0.1,0.01 0.2,0 0.1,0.01 0.2,0 0.2,0 0.1,0 0.2,0 c 1.2,0 1.6,0 1.6,0.96 0,0.59 -0.5,0.59 -0.7,0.59 -1.5,0 -5.2,-0.16 -6.6,-0.16 -1.5,0 -5.1,0.16 -6.6,0.16 -0.4,0 -1,0 -1,-1 0,-0.55 0.4,-0.55 1.4,-0.55 2.1,0 3.4,0 3.4,-0.95 0,-0.25 0,-0.34 -0.1,-0.8 l -6.7,-26.84 c -0.5,-1.84 -0.6,-2.34 -4.6,-2.34 -1.1,0 -1.5,0 -1.5,-1 0,-0.55 0.6,-0.55 0.7,-0.55 1.4,0 5.1,0.16 6.5,0.16 1.5,0 5.2,-0.16 6.7,-0.16 0.4,0 1,0 1,0.95 0,0.6 -0.4,0.6 -1.5,0.6 -0.9,0 -1.1,0 -2.1,0.09 -1.1,0.11 -1.3,0.3 -1.3,0.84 0,0.41 0.1,0.8 0.2,1.16 z"
+           d="m 1174,363.07 v 0.16 l 0.1,0.16 v 0.15 l 0.1,0.14 v 0.14 0.13 l 0.1,0.12 v 0.11 l 0.1,0.11 0.1,0.11 v 0.09 l 0.1,0.09 0.1,0.09 0.1,0.08 v 0.07 l 0.2,0.07 0.1,0.06 0.1,0.06 0.1,0.05 0.2,0.05 0.1,0.04 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.01 0.1,0.02 0.1,0.01 0.1,0.01 0.2,0.01 0.1,0.02 h 0.1 l 0.1,0.01 0.2,0.01 0.1,0.01 h 0.2 l 0.1,0.01 h 0.2 l 0.1,0.01 h 0.2 0.2 0.1 0.2 c 1.2,0 1.6,0 1.6,0.96 0,0.59 -0.5,0.59 -0.7,0.59 -1.5,0 -5.2,-0.16 -6.6,-0.16 -1.5,0 -5.1,0.16 -6.6,0.16 -0.4,0 -1,0 -1,-1 0,-0.55 0.4,-0.55 1.4,-0.55 2.1,0 3.4,0 3.4,-0.95 0,-0.25 0,-0.34 -0.1,-0.8 l -6.7,-26.84 c -0.5,-1.84 -0.6,-2.34 -4.6,-2.34 -1.1,0 -1.5,0 -1.5,-1 0,-0.55 0.6,-0.55 0.7,-0.55 1.4,0 5.1,0.16 6.5,0.16 1.5,0 5.2,-0.16 6.7,-0.16 0.4,0 1,0 1,0.95 0,0.6 -0.4,0.6 -1.5,0.6 -0.9,0 -1.1,0 -2.1,0.09 -1.1,0.11 -1.3,0.3 -1.3,0.84 0,0.41 0.1,0.8 0.2,1.16 z"
            id="path17862" /><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
-           d="m 1229.2,349.18 0.1,0 0.2,0 0.1,0 0.1,0.01 0.1,0 0,0.01 0.1,0.01 0.1,0.01 0.1,0.01 0,0.01 0.1,0.02 0.1,0.02 0,0.02 0.1,0.02 0,0.03 0.1,0.03 0,0.04 0.1,0.03 0,0.05 0.1,0.04 0,0.05 0,0.03 0.1,0.03 0,0.02 0,0.03 0,0.03 0,0.04 0,0.03 0,0.04 0,0.03 0.1,0.04 0,0.04 0,0.04 0,0.04 0,0.04 0,0.04 0,0.05 c 0,1 -1,1 -1.7,1 h -29.8 c -0.7,0 -1.6,0 -1.6,-1 0,-0.98 0.9,-0.98 1.6,-0.98 z"
+           d="m 1229.2,349.18 h 0.1 0.2 0.1 l 0.1,0.01 h 0.1 v 0.01 l 0.1,0.01 0.1,0.01 0.1,0.01 v 0.01 l 0.1,0.02 0.1,0.02 v 0.02 l 0.1,0.02 v 0.03 l 0.1,0.03 v 0.04 l 0.1,0.03 v 0.05 l 0.1,0.04 v 0.05 0.03 l 0.1,0.03 v 0.02 0.03 0.03 0.04 0.03 0.04 0.03 l 0.1,0.04 v 0.04 0.04 0.04 0.04 0.04 0.05 c 0,1 -1,1 -1.7,1 h -29.8 c -0.7,0 -1.6,0 -1.6,-1 0,-0.98 0.9,-0.98 1.6,-0.98 z"
            id="path17864" /><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
-           d="m 1229.2,339.5 0.1,0 0.1,0 0.1,0.01 0.1,0 0.1,0 0.1,0.01 0.1,0.01 0,0 0.1,0.01 0.1,0.02 0,0.01 0.1,0.02 0.1,0.02 0,0.02 0.1,0.02 0,0.03 0.1,0.03 0,0.04 0.1,0.04 0,0.04 0.1,0.05 0,0.02 0,0.03 0,0.02 0.1,0.03 0,0.03 0,0.03 0,0.03 0,0.03 0,0.04 0,0.03 0,0.04 0.1,0.04 0,0.04 0,0.04 0,0.04 0,0.04 0,0.05 0,0.04 c 0,1 -1,1 -1.7,1 h -29.8 c -0.7,0 -1.6,0 -1.6,-1 0,-1 0.9,-1 1.6,-1 z"
+           d="m 1229.2,339.5 h 0.1 0.1 l 0.1,0.01 h 0.1 0.1 l 0.1,0.01 0.1,0.01 v 0 l 0.1,0.01 0.1,0.02 v 0.01 l 0.1,0.02 0.1,0.02 v 0.02 l 0.1,0.02 v 0.03 l 0.1,0.03 v 0.04 l 0.1,0.04 v 0.04 l 0.1,0.05 v 0.02 0.03 0.02 l 0.1,0.03 v 0.03 0.03 0.03 0.03 0.04 0.03 0.04 l 0.1,0.04 v 0.04 0.04 0.04 0.04 0.05 0.04 c 0,1 -1,1 -1.7,1 h -29.8 c -0.7,0 -1.6,0 -1.6,-1 0,-1 0.9,-1 1.6,-1 z"
            id="path17866" /><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
-           d="m 1279.2,400.63 0,0.01 0,0 0,0.01 0,0.01 0,0.01 0,0.01 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.03 0,0.02 0,0.02 0,0.03 -0.1,0.02 0,0.03 0,0.02 0,0.03 0,0.02 0,0.01 -0.1,0.01 0,0.01 0,0.01 0,0.01 0,0.01 0,0.01 -0.1,0.01 0,0.01 0,0.01 0,0.01 0,0 0,0.01 -0.1,0.01 0,0 0,0.01 0,0 -0.1,0.01 0,0 0,0 0,0.01 -0.1,0 0,0 0,0 c -0.8,0 -5.5,-0.45 -6.4,-0.55 -0.4,-0.04 -0.6,-0.29 -0.6,-0.95 0,-0.59 0.4,-0.59 1.2,-0.59 2.3,0 2.4,-0.35 2.4,-0.85 l -0.1,-1 -3,-11.81 c -0.9,1.84 -2.3,3.19 -4.6,3.19 l 0.1,-1.1 c 3.2,0 3.9,-4.07 3.9,-4.37 0,-0.31 -0.1,-0.61 -0.1,-0.86 l -2.5,-9.77 c -0.3,-0.89 -0.3,-0.98 -1,-1.84 -2.2,-2.73 -4.3,-3.53 -5.7,-3.53 -2.4,0 -3.1,2.73 -3.1,4.69 0,2.48 1.5,8.61 2.7,10.9 1.5,2.94 3.8,4.78 5.8,4.78 l -0.1,1.1 c -5.8,0 -12,-7.32 -12,-14.6 0,-4.68 2.7,-7.97 6.6,-7.97 1,0 3.5,0.21 6.5,3.74 0.4,-2.09 2.2,-3.74 4.5,-3.74 1.8,0 2.9,1.15 3.7,2.74 0.9,1.8 1.5,4.84 1.5,4.94 0,0.5 -0.4,0.5 -0.6,0.5 -0.5,0 -0.5,-0.21 -0.7,-0.91 -0.8,-3.23 -1.7,-6.17 -3.8,-6.17 -1.3,0 -1.4,1.3 -1.4,2.3 0,1.18 0,1.54 0.3,2.39 z"
+           d="m 1279.2,400.63 v 0.01 0 0.01 0.01 0.01 0.01 0.02 0.02 0.02 0.02 0.02 0.02 0.03 0.02 0.02 0.03 l -0.1,0.02 v 0.03 0.02 0.03 0.02 0.01 l -0.1,0.01 v 0.01 0.01 0.01 0.01 0.01 l -0.1,0.01 v 0.01 0.01 0.01 0 0.01 l -0.1,0.01 v 0 0.01 0 l -0.1,0.01 v 0 0 0.01 h -0.1 v 0 0 c -0.8,0 -5.5,-0.45 -6.4,-0.55 -0.4,-0.04 -0.6,-0.29 -0.6,-0.95 0,-0.59 0.4,-0.59 1.2,-0.59 2.3,0 2.4,-0.35 2.4,-0.85 l -0.1,-1 -3,-11.81 c -0.9,1.84 -2.3,3.19 -4.6,3.19 l 0.1,-1.1 c 3.2,0 3.9,-4.07 3.9,-4.37 0,-0.31 -0.1,-0.61 -0.1,-0.86 l -2.5,-9.77 c -0.3,-0.89 -0.3,-0.98 -1,-1.84 -2.2,-2.73 -4.3,-3.53 -5.7,-3.53 -2.4,0 -3.1,2.73 -3.1,4.69 0,2.48 1.5,8.61 2.7,10.9 1.5,2.94 3.8,4.78 5.8,4.78 l -0.1,1.1 c -5.8,0 -12,-7.32 -12,-14.6 0,-4.68 2.7,-7.97 6.6,-7.97 1,0 3.5,0.21 6.5,3.74 0.4,-2.09 2.2,-3.74 4.5,-3.74 1.8,0 2.9,1.15 3.7,2.74 0.9,1.8 1.5,4.84 1.5,4.94 0,0.5 -0.4,0.5 -0.6,0.5 -0.5,0 -0.5,-0.21 -0.7,-0.91 -0.8,-3.23 -1.7,-6.17 -3.8,-6.17 -1.3,0 -1.4,1.3 -1.4,2.3 0,1.18 0,1.54 0.3,2.39 z"
            id="path17868" /><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
-           d="m 1301.3,366.9 0.7,0.29 0.7,0.33 0.7,0.36 0.7,0.39 0.7,0.42 0.7,0.45 0.7,0.48 0.7,0.51 0.6,0.54 0.7,0.56 0.6,0.59 0.6,0.61 0.6,0.64 0.6,0.66 0.5,0.68 0.6,0.7 0.5,0.72 0.5,0.74 0.4,0.75 0.5,0.77 0.4,0.79 0.4,0.81 0.3,0.81 0.3,0.83 0.3,0.84 0.3,0.86 0.2,0.86 0.2,0.87 0.1,0.88 0.1,0.89 0.1,0.89 0,0.9 c 0,8.03 -5.3,13.41 -12.7,13.41 l -0.3,-1.25 c 5,0 8.6,-3.88 8.6,-10.57 0,-4.98 -2.5,-16.64 -10.9,-21.31 -0.2,1.74 -0.7,5.38 -4.4,5.38 -2.6,0 -5,-2.5 -5,-5.08 h 1 c 0,1.98 1.9,3.98 4,3.98 2.1,0 3.1,-1.2 3.1,-4.23 0,-0.75 -0.1,-0.8 -0.6,-1 -1.3,-0.55 -2.8,-0.89 -4.2,-0.89 h 0 c -0.7,0 -2.3,0 -2.3,2.14 h -1 c 0,-1 0.2,-1.55 0.2,-1.6 h 0 c -3.9,1.54 -5.5,5.43 -5.5,9.91 0,3.44 1.3,10.52 5,15.89 3.7,5.1 8.4,7.38 12,7.38 l 0.3,1.25 c -10.8,0 -21.7,-11.32 -21.7,-22.93 0,-8.26 5.5,-13.29 12.7,-13.29 1.3,0 3,0.2 4.9,0.75 -0.2,-3.1 -0.2,-3.19 -0.2,-3.85 0,-1.59 0,-5.48 4.1,-5.48 6,0 8.4,9.12 8.4,9.67 0,0.35 -0.4,0.5 -0.6,0.5 -0.4,0 -0.5,-0.25 -0.6,-0.55 -1.2,-3.54 -4,-4.78 -5.8,-4.78 -2.3,0 -3,1.35 -3.5,5.13 z"
+           d="m 1301.3,366.9 0.7,0.29 0.7,0.33 0.7,0.36 0.7,0.39 0.7,0.42 0.7,0.45 0.7,0.48 0.7,0.51 0.6,0.54 0.7,0.56 0.6,0.59 0.6,0.61 0.6,0.64 0.6,0.66 0.5,0.68 0.6,0.7 0.5,0.72 0.5,0.74 0.4,0.75 0.5,0.77 0.4,0.79 0.4,0.81 0.3,0.81 0.3,0.83 0.3,0.84 0.3,0.86 0.2,0.86 0.2,0.87 0.1,0.88 0.1,0.89 0.1,0.89 v 0.9 c 0,8.03 -5.3,13.41 -12.7,13.41 l -0.3,-1.25 c 5,0 8.6,-3.88 8.6,-10.57 0,-4.98 -2.5,-16.64 -10.9,-21.31 -0.2,1.74 -0.7,5.38 -4.4,5.38 -2.6,0 -5,-2.5 -5,-5.08 h 1 c 0,1.98 1.9,3.98 4,3.98 2.1,0 3.1,-1.2 3.1,-4.23 0,-0.75 -0.1,-0.8 -0.6,-1 -1.3,-0.55 -2.8,-0.89 -4.2,-0.89 v 0 c -0.7,0 -2.3,0 -2.3,2.14 h -1 c 0,-1 0.2,-1.55 0.2,-1.6 v 0 c -3.9,1.54 -5.5,5.43 -5.5,9.91 0,3.44 1.3,10.52 5,15.89 3.7,5.1 8.4,7.38 12,7.38 l 0.3,1.25 c -10.8,0 -21.7,-11.32 -21.7,-22.93 0,-8.26 5.5,-13.29 12.7,-13.29 1.3,0 3,0.2 4.9,0.75 -0.2,-3.1 -0.2,-3.19 -0.2,-3.85 0,-1.59 0,-5.48 4.1,-5.48 6,0 8.4,9.12 8.4,9.67 0,0.35 -0.4,0.5 -0.6,0.5 -0.4,0 -0.5,-0.25 -0.6,-0.55 -1.2,-3.54 -4,-4.78 -5.8,-4.78 -2.3,0 -3,1.35 -3.5,5.13 z"
            id="path17870" /><polyline
            style="fill:#000000;fill-rule:nonzero;stroke-width:0"
            points="1254,344 1319.4,344 1319.4,346.04 1254,346.04 "
            id="polyline17872" /><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
-           d="m 1290,332.71 0,0 0,0.01 0,0 0,0.02 0,0.01 0,0.01 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.03 0,0.02 0,0.03 -0.1,0.02 0,0.03 0,0.02 0,0.02 0,0.03 0,0.01 -0.1,0.01 0,0.01 0,0.01 0,0.01 0,0.01 0,0.01 0,0.01 -0.1,0.01 0,0.01 0,0 0,0.01 0,0.01 -0.1,0.01 0,0 0,0.01 0,0 -0.1,0.01 0,0 0,0 0,0 -0.1,0.01 0,0 0,0 c -0.8,0 -5.5,-0.46 -6.3,-0.55 -0.4,-0.05 -0.8,-0.3 -0.8,-0.95 0,-0.6 0.5,-0.6 1.3,-0.6 2.3,0 2.4,-0.34 2.4,-0.84 l -0.1,-1 -3,-11.81 c -0.9,1.84 -2.3,3.19 -4.6,3.19 l 0.1,-1.1 c 3.2,0 3.9,-4.08 3.9,-4.37 0,-0.32 -0.1,-0.61 -0.1,-0.86 l -2.5,-9.77 c -0.3,-0.89 -0.3,-0.98 -1,-1.84 -2.2,-2.74 -4.3,-3.53 -5.7,-3.53 -2.4,0 -3.2,2.73 -3.2,4.68 0,2.49 1.6,8.61 2.8,10.91 1.5,2.94 3.8,4.78 5.8,4.78 l -0.1,1.1 c -5.8,0 -12,-7.32 -12,-14.6 0,-4.69 2.8,-7.97 6.6,-7.97 1,0 3.5,0.21 6.5,3.74 0.4,-2.1 2.2,-3.74 4.5,-3.74 1.8,0 2.9,1.14 3.7,2.74 0.9,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.4,0.5 -0.6,0.5 -0.5,0 -0.5,-0.2 -0.7,-0.9 -0.8,-3.24 -1.7,-6.17 -3.7,-6.17 -1.4,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.2,2.39 z"
+           d="m 1290,332.71 v 0 0.01 0 0.02 0.01 0.01 0.02 0.02 0.02 0.02 0.02 0.02 0.02 0.03 0.02 0.03 l -0.1,0.02 v 0.03 0.02 0.02 0.03 0.01 l -0.1,0.01 v 0.01 0.01 0.01 0.01 0.01 0.01 l -0.1,0.01 v 0.01 0 0.01 0.01 l -0.1,0.01 v 0 0.01 0 l -0.1,0.01 v 0 0 0 l -0.1,0.01 v 0 0 c -0.8,0 -5.5,-0.46 -6.3,-0.55 -0.4,-0.05 -0.8,-0.3 -0.8,-0.95 0,-0.6 0.5,-0.6 1.3,-0.6 2.3,0 2.4,-0.34 2.4,-0.84 l -0.1,-1 -3,-11.81 c -0.9,1.84 -2.3,3.19 -4.6,3.19 l 0.1,-1.1 c 3.2,0 3.9,-4.08 3.9,-4.37 0,-0.32 -0.1,-0.61 -0.1,-0.86 l -2.5,-9.77 c -0.3,-0.89 -0.3,-0.98 -1,-1.84 -2.2,-2.74 -4.3,-3.53 -5.7,-3.53 -2.4,0 -3.2,2.73 -3.2,4.68 0,2.49 1.6,8.61 2.8,10.91 1.5,2.94 3.8,4.78 5.8,4.78 l -0.1,1.1 c -5.8,0 -12,-7.32 -12,-14.6 0,-4.69 2.8,-7.97 6.6,-7.97 1,0 3.5,0.21 6.5,3.74 0.4,-2.1 2.2,-3.74 4.5,-3.74 1.8,0 2.9,1.14 3.7,2.74 0.9,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.4,0.5 -0.6,0.5 -0.5,0 -0.5,-0.2 -0.7,-0.9 -0.8,-3.24 -1.7,-6.17 -3.7,-6.17 -1.4,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.2,2.39 z"
            id="path17874" /><path
            style="fill:#000000;stroke-width:0"
            inkscape:connector-curvature="0"
@@ -1374,37 +1393,37 @@
          xml:space="preserve"
          transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
          id="g18624"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
            id="path18626"
            d="m 1109.7,349.66 0.4,-0.34 0.4,-0.31 0.4,-0.31 0.4,-0.3 0.4,-0.28 0.5,-0.27 0.4,-0.26 0.4,-0.25 0.4,-0.23 0.4,-0.23 0.4,-0.21 0.4,-0.19 0.4,-0.19 0.3,-0.17 0.2,-0.08 0.2,-0.08 0.1,-0.08 0.2,-0.07 c -1.8,-0.79 -4.3,-2.09 -6.3,-3.83 h -31.6 c -0.9,0 -1.9,0 -1.9,-1 0,-1 1,-1 1.8,-1 h 29.4 c -2.3,-2.29 -4.9,-6.67 -4.9,-7.32 0,-0.55 0.6,-0.55 0.9,-0.55 0.4,0 0.8,0 1,0.41 1,1.89 2.4,4.53 5.6,7.42 3.5,3.03 6.8,4.37 9.4,5.12 0.8,0.3 0.9,0.36 1,0.46 0.1,0.04 0.1,0.2 0.1,0.29 0,0.11 0,0.21 0,0.3 l -0.2,0.11 c -0.1,0.05 -0.2,0.09 -1.1,0.39 -6.7,2 -11.7,6.53 -14.5,11.86 -0.5,1 -0.6,1.05 -1.3,1.05 -0.3,0 -0.9,0 -0.9,-0.55 0,-0.66 2.5,-4.99 4.9,-7.33 H 1078 c -0.8,0 -1.8,0 -1.8,-1 0,-0.98 1,-0.98 1.9,-0.98 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18628"
-           d="m 1158.9,333.66 0.8,0.29 0.7,0.33 0.7,0.35 0.7,0.4 0.7,0.42 0.7,0.45 0.7,0.48 0.7,0.51 0.6,0.54 0.7,0.56 0.6,0.59 0.6,0.61 0.6,0.64 0.6,0.66 0.5,0.68 0.6,0.7 0.5,0.72 0.5,0.73 0.4,0.76 0.5,0.77 0.4,0.79 0.4,0.8 0.3,0.82 0.3,0.83 0.3,0.84 0.3,0.85 0.2,0.87 0.2,0.87 0.1,0.88 0.1,0.89 0.1,0.89 0,0.9 c 0,8.03 -5.3,13.4 -12.7,13.4 l -0.3,-1.25 c 5,0 8.6,-3.87 8.6,-10.56 0,-4.98 -2.5,-16.64 -10.9,-21.31 -0.3,1.73 -0.8,5.37 -4.4,5.37 -2.6,0 -5.1,-2.5 -5.1,-5.07 h 1.1 c 0,1.98 1.9,3.98 4,3.98 2.1,0 3,-1.2 3,-4.23 0,-0.75 0,-0.8 -0.5,-1 -1.3,-0.55 -2.8,-0.89 -4.2,-0.89 h 0 c -0.7,0 -2.3,0 -2.3,2.14 h -1.1 c 0,-1 0.3,-1.55 0.3,-1.6 h 0 c -3.9,1.53 -5.6,5.42 -5.6,9.91 0,3.44 1.3,10.51 5.1,15.89 3.7,5.09 8.3,7.37 12,7.37 l 0.3,1.25 c -10.8,0 -21.7,-11.31 -21.7,-22.92 0,-8.26 5.5,-13.29 12.7,-13.29 1.3,0 3,0.2 4.9,0.75 -0.2,-3.1 -0.2,-3.19 -0.2,-3.85 0,-1.59 0,-5.48 4.1,-5.48 6,0 8.3,9.12 8.3,9.67 0,0.34 -0.3,0.5 -0.5,0.5 -0.4,0 -0.5,-0.25 -0.6,-0.55 -1.2,-3.54 -4.1,-4.78 -5.8,-4.78 -2.3,0 -3.1,1.35 -3.6,5.13 z"
+           d="m 1158.9,333.66 0.8,0.29 0.7,0.33 0.7,0.35 0.7,0.4 0.7,0.42 0.7,0.45 0.7,0.48 0.7,0.51 0.6,0.54 0.7,0.56 0.6,0.59 0.6,0.61 0.6,0.64 0.6,0.66 0.5,0.68 0.6,0.7 0.5,0.72 0.5,0.73 0.4,0.76 0.5,0.77 0.4,0.79 0.4,0.8 0.3,0.82 0.3,0.83 0.3,0.84 0.3,0.85 0.2,0.87 0.2,0.87 0.1,0.88 0.1,0.89 0.1,0.89 v 0.9 c 0,8.03 -5.3,13.4 -12.7,13.4 l -0.3,-1.25 c 5,0 8.6,-3.87 8.6,-10.56 0,-4.98 -2.5,-16.64 -10.9,-21.31 -0.3,1.73 -0.8,5.37 -4.4,5.37 -2.6,0 -5.1,-2.5 -5.1,-5.07 h 1.1 c 0,1.98 1.9,3.98 4,3.98 2.1,0 3,-1.2 3,-4.23 0,-0.75 0,-0.8 -0.5,-1 -1.3,-0.55 -2.8,-0.89 -4.2,-0.89 v 0 c -0.7,0 -2.3,0 -2.3,2.14 h -1.1 c 0,-1 0.3,-1.55 0.3,-1.6 v 0 c -3.9,1.53 -5.6,5.42 -5.6,9.91 0,3.44 1.3,10.51 5.1,15.89 3.7,5.09 8.3,7.37 12,7.37 l 0.3,1.25 c -10.8,0 -21.7,-11.31 -21.7,-22.92 0,-8.26 5.5,-13.29 12.7,-13.29 1.3,0 3,0.2 4.9,0.75 -0.2,-3.1 -0.2,-3.19 -0.2,-3.85 0,-1.59 0,-5.48 4.1,-5.48 6,0 8.3,9.12 8.3,9.67 0,0.34 -0.3,0.5 -0.5,0.5 -0.4,0 -0.5,-0.25 -0.6,-0.55 -1.2,-3.54 -4.1,-4.78 -5.8,-4.78 -2.3,0 -3.1,1.35 -3.6,5.13 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18630"
-           d="m 1224.6,349.66 0.2,0 0.1,0 0.2,0 0,0.01 0.1,0 0.1,0.01 0,0.01 0.1,0.01 0.1,0.01 0.1,0.01 0,0.02 0.1,0.02 0,0.02 0.1,0.02 0.1,0.03 0,0.03 0.1,0.04 0,0.03 0.1,0.05 0,0.04 0.1,0.05 0,0.03 0,0.03 0,0.02 0,0.03 0,0.04 0.1,0.03 0,0.03 0,0.04 0,0.03 0,0.04 0,0.04 0,0.04 0,0.04 0,0.04 0,0.05 0,0.04 c 0,1 -0.9,1 -1.6,1 h -29.9 c -0.7,0 -1.6,0 -1.6,-1 0,-0.98 0.9,-0.98 1.7,-0.98 z"
+           d="m 1224.6,349.66 h 0.2 0.1 0.2 v 0.01 h 0.1 l 0.1,0.01 v 0.01 l 0.1,0.01 0.1,0.01 0.1,0.01 v 0.02 l 0.1,0.02 v 0.02 l 0.1,0.02 0.1,0.03 v 0.03 l 0.1,0.04 v 0.03 l 0.1,0.05 v 0.04 l 0.1,0.05 v 0.03 0.03 0.02 0.03 0.04 l 0.1,0.03 v 0.03 0.04 0.03 0.04 0.04 0.04 0.04 0.04 0.05 0.04 c 0,1 -0.9,1 -1.6,1 h -29.9 c -0.7,0 -1.6,0 -1.6,-1 0,-0.98 0.9,-0.98 1.7,-0.98 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18632"
-           d="m 1224.7,339.98 0,0 0.1,0 0.1,0.01 0.2,0 0.1,0 0,0.01 0.1,0.01 0.1,0 0,0.01 0.1,0.02 0.1,0.01 0,0.02 0.1,0.02 0.1,0.02 0,0.02 0.1,0.03 0,0.03 0.1,0.04 0,0.04 0.1,0.04 0,0.05 0,0.02 0.1,0.03 0,0.02 0,0.03 0,0.03 0,0.03 0,0.03 0.1,0.03 0,0.04 0,0.03 0,0.04 0,0.04 0,0.04 0,0.04 0,0.04 0,0.04 0,0.05 0,0.04 c 0,1 -0.9,1 -1.7,1 h -29.7 c -0.8,0 -1.7,0 -1.7,-1 0,-1 0.9,-1 1.6,-1 z"
+           d="m 1224.7,339.98 v 0 h 0.1 l 0.1,0.01 h 0.2 0.1 V 340 l 0.1,0.01 h 0.1 v 0.01 l 0.1,0.02 0.1,0.01 v 0.02 l 0.1,0.02 0.1,0.02 v 0.02 l 0.1,0.03 v 0.03 l 0.1,0.04 v 0.04 l 0.1,0.04 v 0.05 0.02 l 0.1,0.03 v 0.02 0.03 0.03 0.03 0.03 l 0.1,0.03 v 0.04 0.03 0.04 0.04 0.04 0.04 0.04 0.04 0.05 0.04 c 0,1 -0.9,1 -1.7,1 h -29.7 c -0.8,0 -1.7,0 -1.7,-1 0,-1 0.9,-1 1.6,-1 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18634"
-           d="m 1248.2,292.69 0.1,0.01 0.1,0.02 0.2,0.03 0.1,0.03 0.1,0.03 0.2,0.04 0.1,0.05 0.1,0.05 0.1,0.05 0.1,0.06 0.1,0.06 0.1,0.07 0.1,0.07 0.1,0.07 0.1,0.08 0.1,0.08 0,0.09 0.1,0.08 0.1,0.09 0,0.1 0.1,0.09 0,0.1 0.1,0.11 0,0.1 0.1,0.11 0,0.1 0,0.11 0.1,0.12 0,0.11 0,0.11 0,0.12 0,0.11 c 0,1.65 -1.3,2.44 -2.4,2.44 -1.2,0 -2.4,-0.75 -2.4,-2.48 0,-2.55 2.4,-4.64 5.5,-4.64 7.5,0 10.4,11.65 13.9,26.11 3.9,15.73 7.1,31.64 9.8,47.62 1.8,10.61 3.7,20.58 5.4,27 0.6,2.45 2.3,8.88 4.2,8.88 1.6,0 2.8,-0.96 3,-1.14 -1.6,-0.11 -2.5,-1.21 -2.5,-2.46 0,-1.64 1.2,-2.43 2.4,-2.43 1.2,0 2.4,0.75 2.4,2.48 0,2.7 -2.6,4.64 -5.4,4.64 -3.8,0 -6.6,-5.44 -9.3,-15.59 -0.2,-0.55 -6.9,-25.57 -12.4,-58.14 -1.3,-7.63 -2.7,-15.94 -4.4,-22.88 -0.9,-3.62 -3.2,-13 -7.2,-13 -1.8,0 -3,1.14 -3,1.14 z"
+           d="m 1248.2,292.69 0.1,0.01 0.1,0.02 0.2,0.03 0.1,0.03 0.1,0.03 0.2,0.04 0.1,0.05 0.1,0.05 0.1,0.05 0.1,0.06 0.1,0.06 0.1,0.07 0.1,0.07 0.1,0.07 0.1,0.08 0.1,0.08 v 0.09 l 0.1,0.08 0.1,0.09 v 0.1 l 0.1,0.09 v 0.1 l 0.1,0.11 v 0.1 l 0.1,0.11 v 0.1 0.11 l 0.1,0.12 v 0.11 0.11 0.12 0.11 c 0,1.65 -1.3,2.44 -2.4,2.44 -1.2,0 -2.4,-0.75 -2.4,-2.48 0,-2.55 2.4,-4.64 5.5,-4.64 7.5,0 10.4,11.65 13.9,26.11 3.9,15.73 7.1,31.64 9.8,47.62 1.8,10.61 3.7,20.58 5.4,27 0.6,2.45 2.3,8.88 4.2,8.88 1.6,0 2.8,-0.96 3,-1.14 -1.6,-0.11 -2.5,-1.21 -2.5,-2.46 0,-1.64 1.2,-2.43 2.4,-2.43 1.2,0 2.4,0.75 2.4,2.48 0,2.7 -2.6,4.64 -5.4,4.64 -3.8,0 -6.6,-5.44 -9.3,-15.59 -0.2,-0.55 -6.9,-25.57 -12.4,-58.14 -1.3,-7.63 -2.7,-15.94 -4.4,-22.88 -0.9,-3.62 -3.2,-13 -7.2,-13 -1.8,0 -3,1.14 -3,1.14 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18636"
-           d="m 1319.7,363.55 0,0.16 0.1,0.16 0,0.15 0,0.14 0.1,0.14 0,0.13 0.1,0.12 0,0.11 0.1,0.11 0,0.11 0.1,0.09 0.1,0.09 0,0.09 0.1,0.08 0.1,0.07 0.1,0.07 0.1,0.06 0.2,0.06 0.1,0.05 0.2,0.05 0.1,0.04 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.01 0.1,0.02 0.1,0.01 0.1,0.01 0.1,0.02 0.2,0.01 0.1,0.01 0.1,0 0.2,0.01 0.1,0.01 0.1,0.01 0.2,0 0.2,0 0.1,0.01 0.2,0 0.2,0 0.1,0 0.2,0 c 1.2,0 1.6,0 1.6,0.96 0,0.59 -0.5,0.59 -0.7,0.59 -1.5,0 -5.2,-0.16 -6.6,-0.16 -1.5,0 -5.2,0.16 -6.7,0.16 -0.3,0 -1,0 -1,-1 0,-0.55 0.5,-0.55 1.4,-0.55 2.1,0 3.5,0 3.5,-0.95 0,-0.25 0,-0.34 -0.1,-0.8 l -6.7,-26.84 c -0.5,-1.84 -0.6,-2.34 -4.6,-2.34 -1.1,0 -1.6,0 -1.6,-1 0,-0.55 0.6,-0.55 0.8,-0.55 1.4,0 5.1,0.16 6.5,0.16 1.5,0 5.2,-0.16 6.7,-0.16 0.4,0 1,0 1,0.95 0,0.6 -0.4,0.6 -1.5,0.6 -0.9,0 -1.2,0 -2.2,0.09 -1,0.11 -1.2,0.3 -1.2,0.84 0,0.41 0.1,0.8 0.2,1.16 z"
+           d="m 1319.7,363.55 v 0.16 l 0.1,0.16 v 0.15 0.14 l 0.1,0.14 v 0.13 l 0.1,0.12 v 0.11 l 0.1,0.11 v 0.11 l 0.1,0.09 0.1,0.09 v 0.09 l 0.1,0.08 0.1,0.07 0.1,0.07 0.1,0.06 0.2,0.06 0.1,0.05 0.2,0.05 0.1,0.04 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.02 0.1,0.01 0.1,0.02 0.1,0.01 0.1,0.01 0.1,0.02 0.2,0.01 0.1,0.01 h 0.1 l 0.2,0.01 0.1,0.01 0.1,0.01 h 0.2 0.2 l 0.1,0.01 h 0.2 0.2 0.1 0.2 c 1.2,0 1.6,0 1.6,0.96 0,0.59 -0.5,0.59 -0.7,0.59 -1.5,0 -5.2,-0.16 -6.6,-0.16 -1.5,0 -5.2,0.16 -6.7,0.16 -0.3,0 -1,0 -1,-1 0,-0.55 0.5,-0.55 1.4,-0.55 2.1,0 3.5,0 3.5,-0.95 0,-0.25 0,-0.34 -0.1,-0.8 l -6.7,-26.84 c -0.5,-1.84 -0.6,-2.34 -4.6,-2.34 -1.1,0 -1.6,0 -1.6,-1 0,-0.55 0.6,-0.55 0.8,-0.55 1.4,0 5.1,0.16 6.5,0.16 1.5,0 5.2,-0.16 6.7,-0.16 0.4,0 1,0 1,0.95 0,0.6 -0.4,0.6 -1.5,0.6 -0.9,0 -1.2,0 -2.2,0.09 -1,0.11 -1.2,0.3 -1.2,0.84 0,0.41 0.1,0.8 0.2,1.16 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18638"
-           d="m 1347.4,345.81 0,0.14 0,0.13 0,0.13 0,0.13 0,0.13 -0.1,0.13 0,0.12 -0.1,0.12 0,0.12 -0.1,0.11 0,0.11 -0.1,0.11 -0.1,0.1 -0.1,0.1 0,0.1 -0.1,0.09 -0.1,0.09 -0.1,0.08 -0.1,0.08 -0.1,0.07 -0.1,0.07 -0.1,0.06 -0.2,0.06 -0.1,0.05 -0.1,0.05 -0.1,0.04 -0.1,0.04 -0.2,0.03 -0.1,0.02 -0.1,0.02 -0.2,0.01 -0.1,0 c -1.4,0 -2.6,-1.18 -2.6,-2.64 0,-1.43 1.2,-2.64 2.6,-2.64 1.4,0 2.6,1.21 2.6,2.64 z"
+           d="m 1347.4,345.81 v 0.14 0.13 0.13 0.13 0.13 l -0.1,0.13 v 0.12 l -0.1,0.12 v 0.12 l -0.1,0.11 v 0.11 l -0.1,0.11 -0.1,0.1 -0.1,0.1 v 0.1 l -0.1,0.09 -0.1,0.09 -0.1,0.08 -0.1,0.08 -0.1,0.07 -0.1,0.07 -0.1,0.06 -0.2,0.06 -0.1,0.05 -0.1,0.05 -0.1,0.04 -0.1,0.04 -0.2,0.03 -0.1,0.02 -0.1,0.02 -0.2,0.01 h -0.1 c -1.4,0 -2.6,-1.18 -2.6,-2.64 0,-1.43 1.2,-2.64 2.6,-2.64 1.4,0 2.6,1.21 2.6,2.64 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18640"
-           d="m 1388.5,367.39 0,0 0,0.01 0,0 0,0.02 0,0.01 0,0.01 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.02 0,0.03 0,0.02 0,0.03 0,0.02 -0.1,0.03 0,0.02 0,0.02 0,0.03 0,0.01 0,0.01 -0.1,0.01 0,0.01 0,0.01 0,0.01 0,0.01 0,0.01 0,0.01 -0.1,0.01 0,0 0,0.01 0,0.01 0,0.01 -0.1,0 0,0.01 0,0 0,0.01 -0.1,0 0,0 0,0 0,0.01 -0.1,0 0,0 c -0.7,0 -5.5,-0.46 -6.3,-0.55 -0.4,-0.05 -0.7,-0.3 -0.7,-0.95 0,-0.6 0.4,-0.6 1.2,-0.6 2.4,0 2.5,-0.34 2.5,-0.84 l -0.2,-1 -3,-11.81 c -0.9,1.84 -2.3,3.19 -4.6,3.19 l 0.1,-1.1 c 3.2,0 3.9,-4.08 3.9,-4.37 0,-0.32 -0.1,-0.61 -0.1,-0.86 l -2.5,-9.77 c -0.3,-0.89 -0.3,-0.98 -1,-1.84 -2.2,-2.74 -4.3,-3.53 -5.6,-3.53 -2.5,0 -3.2,2.73 -3.2,4.68 0,2.49 1.6,8.61 2.7,10.91 1.6,2.94 3.8,4.78 5.8,4.78 l -0.1,1.1 c -5.8,0 -12,-7.32 -12,-14.6 0,-4.69 2.8,-7.97 6.7,-7.97 0.9,0 3.4,0.21 6.4,3.74 0.4,-2.1 2.2,-3.74 4.6,-3.74 1.7,0 2.8,1.14 3.7,2.74 0.8,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.5,0.5 -0.6,0.5 -0.5,0 -0.6,-0.2 -0.8,-0.9 -0.8,-3.24 -1.7,-6.17 -3.7,-6.17 -1.4,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.3,2.39 z"
+           d="m 1388.5,367.39 v 0 0.01 0 0.02 0.01 0.01 0.02 0.02 0.02 0.02 0.02 0.02 0.02 0.03 0.02 0.03 0.02 l -0.1,0.03 v 0.02 0.02 0.03 0.01 0.01 l -0.1,0.01 v 0.01 0.01 0.01 0.01 0.01 0.01 l -0.1,0.01 v 0 0.01 0.01 0.01 h -0.1 v 0.01 0 0.01 h -0.1 v 0 0 0.01 h -0.1 v 0 c -0.7,0 -5.5,-0.46 -6.3,-0.55 -0.4,-0.05 -0.7,-0.3 -0.7,-0.95 0,-0.6 0.4,-0.6 1.2,-0.6 2.4,0 2.5,-0.34 2.5,-0.84 l -0.2,-1 -3,-11.81 c -0.9,1.84 -2.3,3.19 -4.6,3.19 l 0.1,-1.1 c 3.2,0 3.9,-4.08 3.9,-4.37 0,-0.32 -0.1,-0.61 -0.1,-0.86 l -2.5,-9.77 c -0.3,-0.89 -0.3,-0.98 -1,-1.84 -2.2,-2.74 -4.3,-3.53 -5.6,-3.53 -2.5,0 -3.2,2.73 -3.2,4.68 0,2.49 1.6,8.61 2.7,10.91 1.6,2.94 3.8,4.78 5.8,4.78 l -0.1,1.1 c -5.8,0 -12,-7.32 -12,-14.6 0,-4.69 2.8,-7.97 6.7,-7.97 0.9,0 3.4,0.21 6.4,3.74 0.4,-2.1 2.2,-3.74 4.6,-3.74 1.7,0 2.8,1.14 3.7,2.74 0.8,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.5,0.5 -0.6,0.5 -0.5,0 -0.6,-0.2 -0.8,-0.9 -0.8,-3.24 -1.7,-6.17 -3.7,-6.17 -1.4,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.3,2.39 z"
            inkscape:connector-curvature="0"
            style="fill:#000000;stroke-width:0" /><path
            id="path18642"
@@ -1415,56 +1434,56 @@
        transform="matrix(2.133762,0,0,2.133762,-1076.7009,-1126.8551)"
        id="g17750">
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="692.56366"
          x="526.61621"
          id="text14453">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="526.61621"
            y="692.56366"
            id="tspan14455">V</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="692.56366"
          x="540.10742"
          id="text14457">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMR10;-inkscape-font-specification:CMR10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="540.10742"
            y="692.56366"
            id="tspan14459">=</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="692.56366"
          x="553.25244"
          id="text14461">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="553.25244"
            y="692.56366"
            id="tspan14463">I</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="692.56366"
          x="562.47119"
          id="text14465">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="562.47119"
            y="692.56366"
            id="tspan14467">×</tspan>
       </text>
       <text
-         style="font-size:15px"
+         style="font-size:15px;line-height:0%"
          y="692.56366"
          x="574.92493"
          id="text14469">
         <tspan
-           style="font-size:12.45324993px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10"
+           style="font-variant:normal;font-weight:normal;font-size:12.45324993px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="574.92493"
            y="692.56366"
            id="tspan14471">R</tspan>
@@ -1472,204 +1491,224 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="57.142857"
        y="142.36218"
-       id="text35048"
-       sodipodi:linespacing="125%"><tspan
+       id="text35048"><tspan
          sodipodi:role="line"
          id="tspan35050"
          x="57.142857"
-         y="142.36218" /></text>
+         y="142.36218"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.82065392px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="44.626663"
        y="134.81018"
-       id="text35052"
-       sodipodi:linespacing="125%"><tspan
+       id="text35052"><tspan
          sodipodi:role="line"
          id="tspan35054"
          x="44.626663"
-         y="134.81018">electricity is flow of electrons.</tspan><tspan
+         y="134.81018"
+         style="font-size:15.82065392px;line-height:1.25;font-family:sans-serif">electricity is flow of electrons.</tspan><tspan
          sodipodi:role="line"
          x="44.626663"
          y="154.586"
-         id="tspan35056">Electrons have charge (fixed)</tspan><tspan
+         id="tspan35056"
+         style="font-size:15.82065392px;line-height:1.25;font-family:sans-serif">Electrons have charge (fixed)</tspan><tspan
          sodipodi:role="line"
          x="44.626663"
          y="174.36182"
-         id="tspan35058">and energy (variable).</tspan></text>
+         id="tspan35058"
+         style="font-size:15.82065392px;line-height:1.25;font-family:sans-serif">and energy (variable).</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.57453346px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="539.03625"
        y="165.24652"
-       id="text35060"
-       sodipodi:linespacing="125%"><tspan
+       id="text35060"><tspan
          sodipodi:role="line"
          x="539.03625"
          y="165.24652"
-         id="tspan35064">current (I) is the amount</tspan><tspan
+         id="tspan35064"
+         style="font-size:13.57453346px;line-height:1.25;font-family:sans-serif">current (I) is the amount</tspan><tspan
          sodipodi:role="line"
          x="539.03625"
          y="182.21469"
-         id="tspan35068">of charge that flows past</tspan><tspan
+         id="tspan35068"
+         style="font-size:13.57453346px;line-height:1.25;font-family:sans-serif">of charge that flows past</tspan><tspan
          sodipodi:role="line"
          x="539.03625"
          y="199.18286"
-         id="tspan35070">a point per unit time</tspan></text>
+         id="tspan35070"
+         style="font-size:13.57453346px;line-height:1.25;font-family:sans-serif">a point per unit time</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12.98194599px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="546.90631"
        y="234.082"
-       id="text35072"
-       sodipodi:linespacing="125%"><tspan
+       id="text35072"><tspan
          sodipodi:role="line"
          id="tspan35074"
          x="546.90631"
-         y="234.082">voltage (V) is the</tspan><tspan
+         y="234.082"
+         style="font-size:12.98194599px;line-height:1.25;font-family:sans-serif">voltage (V) is the</tspan><tspan
          sodipodi:role="line"
          x="546.90631"
          y="250.30943"
-         id="tspan35076">energy per unit charge.</tspan></text>
+         id="tspan35076"
+         style="font-size:12.98194599px;line-height:1.25;font-family:sans-serif">energy per unit charge.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18.08641434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="261.2373"
        y="203.67448"
-       id="text35078"
-       sodipodi:linespacing="125%"><tspan
+       id="text35078"><tspan
          sodipodi:role="line"
          x="261.2373"
          y="203.67448"
-         id="tspan35082">Voltages are all relative.</tspan><tspan
+         id="tspan35082"
+         style="font-size:18.08641434px;line-height:1.25;font-family:sans-serif">Voltages are all relative.</tspan><tspan
          sodipodi:role="line"
          x="261.2373"
          y="226.2825"
-         id="tspan35088">Usually the reference</tspan><tspan
+         id="tspan35088"
+         style="font-size:18.08641434px;line-height:1.25;font-family:sans-serif">Usually the reference</tspan><tspan
          sodipodi:role="line"
          x="261.2373"
          y="248.89052"
-         id="tspan35092">point is &quot;ground&quot;</tspan></text>
+         id="tspan35092"
+         style="font-size:18.08641434px;line-height:1.25;font-family:sans-serif">point is &quot;ground&quot;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="48.48732"
        y="382.63104"
-       id="text35094"
-       sodipodi:linespacing="125%"><tspan
+       id="text35094"><tspan
          sodipodi:role="line"
          id="tspan35096"
          x="48.48732"
-         y="382.63104">physics: resistors turn </tspan><tspan
+         y="382.63104"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">physics: resistors turn </tspan><tspan
          sodipodi:role="line"
          x="48.48732"
          y="410.13104"
-         id="tspan35098">electrical energy into heat</tspan><tspan
+         id="tspan35098"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">electrical energy into heat</tspan><tspan
          sodipodi:role="line"
          x="48.48732"
          y="437.63104"
-         id="tspan35100">energy</tspan></text>
+         id="tspan35100"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">energy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="53.538086"
        y="491.72751"
-       id="text35102"
-       sodipodi:linespacing="125%"><tspan
+       id="text35102"><tspan
          sodipodi:role="line"
          id="tspan35104"
          x="53.538086"
-         y="491.72751">engineering: resistors limit </tspan><tspan
+         y="491.72751"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">engineering: resistors limit </tspan><tspan
          sodipodi:role="line"
          x="53.538086"
          y="519.22754"
-         id="tspan35106">current</tspan></text>
+         id="tspan35106"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">current</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="408.10165"
        y="368.48892"
-       id="text35108"
-       sodipodi:linespacing="125%"><tspan
+       id="text35108"><tspan
          sodipodi:role="line"
          id="tspan35110"
          x="408.10165"
-         y="368.48892">physics: capacitors store</tspan><tspan
+         y="368.48892"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">physics: capacitors store</tspan><tspan
          sodipodi:role="line"
          x="408.10165"
          y="395.98892"
-         id="tspan35112">energy in electric field by</tspan><tspan
+         id="tspan35112"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">energy in electric field by</tspan><tspan
          sodipodi:role="line"
          x="408.10165"
          y="423.48892"
-         id="tspan35114">separating charge</tspan></text>
+         id="tspan35114"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">separating charge</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="409.11179"
        y="484.65646"
-       id="text35116"
-       sodipodi:linespacing="125%"><tspan
+       id="text35116"><tspan
          sodipodi:role="line"
          id="tspan35118"
          x="409.11179"
-         y="484.65646">engineering: capacitors </tspan><tspan
+         y="484.65646"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">engineering: capacitors </tspan><tspan
          sodipodi:role="line"
          x="409.11179"
-         y="512.15643"
-         id="tspan35122">cause &quot;smoothing&quot; </tspan></text>
+         y="512.15649"
+         id="tspan35122"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">cause &quot;smoothing&quot; </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="40"
        y="650.93359"
-       id="text35126"
-       sodipodi:linespacing="125%"><tspan
+       id="text35126"><tspan
          sodipodi:role="line"
          id="tspan35128"
          x="40"
-         y="650.93359">sum of currents entering a junction</tspan><tspan
+         y="650.93359"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">sum of currents entering a junction</tspan><tspan
          sodipodi:role="line"
          x="40"
          y="678.43359"
-         id="tspan35132">must equal sum of currents leaving</tspan><tspan
+         id="tspan35132"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">must equal sum of currents leaving</tspan><tspan
          sodipodi:role="line"
          x="40"
          y="705.93359"
-         id="tspan35134">a junction (K1)</tspan><tspan
+         id="tspan35134"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">a junction (K1)</tspan><tspan
          sodipodi:role="line"
          x="40"
          y="733.43359"
-         id="tspan35130" /></text>
+         id="tspan35130"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="40"
        y="876.64789"
-       id="text35136"
-       sodipodi:linespacing="125%"><tspan
+       id="text35136"><tspan
          sodipodi:role="line"
          id="tspan35138"
          x="40"
-         y="876.64789">sum of voltages around a  closed circuit must </tspan><tspan
+         y="876.64789"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">sum of voltages around a  closed circuit must </tspan><tspan
          sodipodi:role="line"
          x="40"
          y="904.14789"
-         id="tspan35140">equal zero.</tspan><tspan
+         id="tspan35140"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">equal zero.</tspan><tspan
          sodipodi:role="line"
          x="40"
          y="931.64789"
-         id="tspan35142" /><tspan
+         id="tspan35142"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif"> </tspan><tspan
          sodipodi:role="line"
          x="40"
          y="959.14789"
-         id="tspan35144">Points connected by &quot;wires&quot; are at the same</tspan><tspan
+         id="tspan35144"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">Points connected by &quot;wires&quot; are at the same</tspan><tspan
          sodipodi:role="line"
          x="40"
          y="986.64789"
-         id="tspan35146">voltage</tspan></text>
+         id="tspan35146"
+         style="font-size:22px;line-height:1.25;font-family:sans-serif">voltage</tspan></text>
   </g>
 </svg>
