@@ -1,4 +1,4 @@
-# Oxhack Analog Electronics
+#  Analog Electronics
 -------
 ## Session 2 - Op amps
 
